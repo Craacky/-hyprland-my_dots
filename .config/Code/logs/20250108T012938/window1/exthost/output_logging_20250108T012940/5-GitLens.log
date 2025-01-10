@@ -1,0 +1,16 @@
+GitLens v16.1.1 activating in Visual Studio Code (1.96.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (548f68cd929142926c661ba7a0162b9b7009e541a25768e02d9c6a9f475c3452|a0196904-cefb-42b1-8624-a9bb04de21ee1736288979670)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-01-07 22:29:42.342] [GIT          ] [/home/craacky/.config/waybar] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [36ms]
+
+[2025-01-07 22:29:42.372] [GIT          ] [/home/craacky/.config/waybar] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [7ms]
+
+[2025-01-07 22:29:43.164] [GIT          ] [/home/craacky/.config/waybar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [158ms]
+
+[2025-01-07 22:34:22.618] [GIT          ] [/home/craacky/.config/waybar] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [11ms]
+
+[2025-01-07 22:39:44.669] [GIT          ] [/home/craacky/.config/waybar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [9ms]
+
+[2025-01-07 22:40:05.955] [GIT          ] [/home/craacky/.config/waybar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [7ms]
+
+[2025-01-07 22:42:12.687] [GIT          ] [/home/craacky/.config/waybar/themes] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+

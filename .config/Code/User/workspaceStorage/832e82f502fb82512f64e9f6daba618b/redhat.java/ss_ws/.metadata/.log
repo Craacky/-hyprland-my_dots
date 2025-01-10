@@ -1,0 +1,193 @@
+!SESSION 2024-12-25 09:35:00.160 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --pipe=/run/user/1000/lsp-87eb98dbf53147add2fb3e6d4ce1b2dc.sock
+Command-line arguments:  -data /home/craacky/.config/Code/User/workspaceStorage/832e82f502fb82512f64e9f6daba618b/redhat.java/ss_ws --pipe=/run/user/1000/lsp-87eb98dbf53147add2fb3e6d4ce1b2dc.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:01.818
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:01.953
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.000
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.002
+!MESSAGE Initializing Java Language Server 1.43.0.202412190401
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.088
+!MESSAGE Setting /usr/lib/jvm/java-23-openjdk as 'JavaSE-23' environment (id:1735108502077)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.091
+!MESSAGE Setting java.home /usr/lib/jvm/java-23-openjdk as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.101
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.116
+!MESSAGE Workspace initialized in 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.126
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.131
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.132
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.133
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.141
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:04.449
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:04.463
+!MESSAGE Creating the Java project MiniShop_98b7e8ed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:04.521
+!MESSAGE Finished creating the Java project MiniShop_98b7e8ed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:04.638
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:04.639
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.568
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.576
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.578
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.586
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.587
+!MESSAGE Clearing problems for /CartActivity.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.593
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.628
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.630
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.635
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.636
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.636
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.638
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.640
+!MESSAGE Clearing problems for /CartAdapter.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.658
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.696
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.705
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.713
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:05.966
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.076
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.076
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.077
+!MESSAGE Clearing problems for /CustomAdapter.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.095
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.103
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.120
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.123
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.127
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.398
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.522
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.524
+!MESSAGE Clearing problems for /Item.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.533
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.552
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.559
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.595
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:06.840
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:07.062
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:07.257
+!MESSAGE begin problem for /MainActivity.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:07.259
+!MESSAGE 0 problems reported for /MainActivity.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:07.260
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:15.528
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:15.529
+!MESSAGE Clearing problems for /MainActivity.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.178
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.182
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.201
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.205
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

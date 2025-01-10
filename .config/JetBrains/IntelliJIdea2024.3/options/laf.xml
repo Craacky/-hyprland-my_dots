@@ -1,0 +1,5 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="com.github.shubham076.fleet" />
+  </component>
+</application>

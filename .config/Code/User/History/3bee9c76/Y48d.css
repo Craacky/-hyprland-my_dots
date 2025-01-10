@@ -1,0 +1,96 @@
+/*
+
+██╗    ██╗██╗      ██████╗  ██████╗  ██████╗ ██╗   ██╗████████╗
+██║    ██║██║     ██╔═══██╗██╔════╝ ██╔═══██╗██║   ██║╚══██╔══╝
+██║ █╗ ██║██║     ██║   ██║██║  ███╗██║   ██║██║   ██║   ██║   
+██║███╗██║██║     ██║   ██║██║   ██║██║   ██║██║   ██║   ██║   
+╚███╔███╔╝███████╗╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝   ██║   
+ ╚══╝╚══╝ ╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   
+
+WLogout Config File by Arfan Zubi
+
+*/
+
+window {
+    color: #D3C6AA;
+    background-color: rgba(36, 39, 58, 0.7);
+    font-family: 'JetBrainsMono Nerd Font', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button {
+    margin: 5px;
+    color: #D3C6AA;
+    /* background-color: #363A4F; */
+    background-color: #1E2326;
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 5px solid #83C092;
+    box-shadow: none;
+    text-shadow: none;
+    transition: background-color 0.2s ease-in-out;
+}
+
+button:focus,
+button:active,
+button:hover {
+    color: #A7C080;
+    background-color: #24273A;
+    text-shadow: none;
+}
+
+#lock {
+    background-image: image(url("./icons/lock.png"));
+}
+
+#lock:hover,
+#lock:focus {
+    background-image: image(url("./icons/lock-hover.png"));
+}
+
+#logout {
+    background-image: image(url("./icons/logout.png"));
+}
+
+#logout:hover,
+#logout:focus {
+    background-image: image(url("./icons/logout-hover.png"));
+}
+
+#suspend {
+    background-image: image(url("./icons/suspend.png"));
+}
+
+#suspend:hover,
+#suspend:focus {
+    background-image: image(url("./icons/suspend-hover.png"));
+}
+
+#hibernate {
+    background-image: image(url("./icons/hibernate.png"));
+}
+
+#hibernate:hover,
+#hibernate:focus {
+    background-image: image(url("./icons/hibernate-hover.png"));
+}
+
+#shutdown {
+    background-image: image(url("./icons/shutdown.png"));
+}
+
+#shutdown:hover,
+#shutdown:focus {
+    background-image: image(url("./icons/shutdown-hover.png"));
+}
+
+#reboot {
+    background-image: image(url("./icons/reboot.png"));
+}
+
+#reboot:hover,
+#reboot:focus {
+    background-image: image(url("./icons/reboot-hover.png"));
+}

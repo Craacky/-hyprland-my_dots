@@ -1,0 +1,39 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1735910217977</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1735910217977</updated>
+          <workItem from="1735910220306" duration="281000" />
+        </task>
+        <servers />
+      </component>
+      <component name="TimeTrackingManager">
+        <option name="totallyTimeSpent" value="281000" />
+      </component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="748" y="313" key="FileChooserDialogImpl" timestamp="1736000684293">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="748" y="313" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1736000684293" />
+        <state x="526" y="221" width="1000" height="700" key="SettingsEditor" timestamp="1735596615546">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="526" y="221" width="1000" height="700" key="SettingsEditor/0.0.1920.1080" timestamp="1735596615546" />
+        <state x="460" y="190" width="1000" height="700" key="new project wizard" timestamp="1736000719552">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="460" y="190" width="1000" height="700" key="new project wizard/0.0.1920.1080" timestamp="1736000719552" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

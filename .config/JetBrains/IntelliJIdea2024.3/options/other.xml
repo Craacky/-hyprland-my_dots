@@ -1,0 +1,76 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Endpoints.split": "0.65",
+    "FileChooser.ShowPath": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-243.22562.218",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "IU-243.22562.218",
+    "MarketplacePluginsSearchHistory": "theme",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NewProjectWizard.gitState": "false",
+    "NewProjectWizard.gradleDslState": "GROOVY",
+    "NewProjectWizard.groupIdState": "by.craacky",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "SettingsSearchHistory": "font\nnew ui",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "debugger.smart.chooser.counter": "1",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.243": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.22562.218",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.onboarding.tips.debug.panel.got.it": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "ide.memory.adjusted": "true",
+    "ift.hide.welcome.screen.promo": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "243.22562.218-IJ",
+    "jdk.selected.JAVA_MODULE": "23",
+    "last_opened_file_path": "/home/craacky/Projects",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "3",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "org.jetbrains.plugins.groovy.config.wizard.GroovyNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "previousColorScheme": "_@user_Fleet",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "registry.to.advanced.settings.migration.build": "IU-243.22562.218",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/craacky/Projects"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

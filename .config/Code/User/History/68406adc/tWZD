@@ -1,0 +1,75 @@
+
+[global]
+    monitor = 0
+    follow = mouse
+    width = (500,500)
+    height = (200,200)
+    origin = top-center
+    offset = (0, 15)
+    indicate_hidden = yes
+    shrink = no
+    transparency = 0
+    separator_height = 3
+    padding = 15
+    horizontal_padding = 15
+    frame_width = 1
+    frame_color = "#FFFFFF"
+    separator_color = frame
+    sort = yes
+    idle_threshold = 60
+    corner_radius = 5
+
+    font = JetBrainsMono Nerd Font 11
+    line_height = 0
+    markup = full
+    format = "<b>%s</b>\n%b"
+    alignment = left
+    vertical_alignment = center
+    show_age_threshold = 60
+    word_wrap = yes
+    ellipsize = middle
+
+    ignore_newline = no
+    stack_duplicates = true
+    hide_duplicate_count = false
+
+    show_indicators = no
+    icon_position = left
+    max_icon_size = 75
+    icon_path = /usr/share/icons/Papirus/16x16/devices/:/usr/share/icons/Papirus/16x16/apps/
+    sticky_history = yes
+    history_length = 20
+    dmenu = /usr/bin/dmenu -p dunst:
+    browser = /usr/bin/zen-browser -new-tab
+    always_run_script = true
+    close = ctrl+space
+    close_all = ctrl+shift+space
+    history = ctrl+grave
+    context = ctrl+shift+period
+    title = Dunst
+
+    class = Dunst
+    corner_radius = 10
+    ignore_dbusclose = false
+    force_xinerama = false
+    mouse_left_click = close_current
+    mouse_middle_click = do_action, close_current
+    mouse_right_click = close_all
+
+[experimental]
+    per_monitor_dpi = false
+
+[base16_low]
+    msg_urgency = low
+    background = "#10100E"
+    foreground = "#C6C6C4"
+
+[base16_normal]
+    msg_urgency = normal
+    background = "#10100E"
+    foreground = "#C6C6C4"
+
+[base16_critical]
+    msg_urgency = critical
+    background = "#10100E"
+    foreground = "#C6C6C4"

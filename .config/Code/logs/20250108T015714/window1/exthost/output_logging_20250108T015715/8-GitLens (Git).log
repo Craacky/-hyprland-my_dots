@@ -1,0 +1,12 @@
+[2025-01-07 22:57:17.588] [         80ms] [/home/craacky/.config/waybar] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-07 22:57:17.626] [         10ms] [/home/craacky/.config/waybar] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+

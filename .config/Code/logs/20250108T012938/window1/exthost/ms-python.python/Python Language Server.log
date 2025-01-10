@@ -1,0 +1,20 @@
+2025-01-08 01:29:44.209 [info] [Info  - 1:29:44 AM] (1969) Server root directory: file:///home/craacky/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-08 01:29:44.212 [info] [Info  - 1:29:44 AM] (1969) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-08 01:29:44.214 [info] [Info  - 1:29:44 AM] (1969) Starting service instance "waybar"
+2025-01-08 01:29:44.248 [info] [Info  - 1:29:44 AM] (1969) Setting environmentName for service "waybar": "3.13.1 (global)"
+2025-01-08 01:29:44.249 [info] [Info  - 1:29:44 AM] (1969) Setting pythonPath for service "waybar": "/bin/python"
+2025-01-08 01:29:44.249 [info] [Info  - 1:29:44 AM] (1969) No include entries specified; assuming /home/craacky/.config/waybar
+2025-01-08 01:29:44.249 [info] [Info  - 1:29:44 AM] (1969) Auto-excluding **/node_modules
+2025-01-08 01:29:44.249 [info] [Info  - 1:29:44 AM] (1969) Auto-excluding **/__pycache__
+2025-01-08 01:29:44.249 [info] [Info  - 1:29:44 AM] (1969) Auto-excluding **/.*
+2025-01-08 01:29:44.272 [info] [Info  - 1:29:44 AM] (1969) Assuming Python version 3.13.1.final.0
+2025-01-08 01:29:44.397 [info] [Info  - 1:29:44 AM] (1969) Found 1 source file
+2025-01-08 01:29:44.683 [info] [Info  - 1:29:44 AM] (1969) Background analysis(1) root directory: file:///home/craacky/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-08 01:29:44.685 [info] [Info  - 1:29:44 AM] (1969) Background analysis(1) started
+2025-01-08 01:29:44.827 [info] [Info  - 1:29:44 AM] (1969) Indexer background runner(2) root directory: file:///home/craacky/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-08 01:29:44.827 [info] [Info  - 1:29:44 AM] (1969) Indexing(2) started
+2025-01-08 01:29:45.437 [info] [Info  - 1:29:45 AM] (1969) scanned(2) 135 files over 1 exec env
+2025-01-08 01:29:46.512 [info] [Info  - 1:29:46 AM] (1969) indexed(2) 135 files over 1 exec env
+2025-01-08 01:29:46.548 [info] [Info  - 1:29:46 AM] (1969) Indexing finished(2).
+2025-01-08 01:29:53.875 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-01-08 01:29:53.875 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.1)

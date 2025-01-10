@@ -1,0 +1,381 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="task_managment_system" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="task_managment_db@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="task_managment_db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="task_managment_db: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="task_managment_db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="task_managment_db: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="task_managment_db@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="task_managment_db: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 4 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="28uck124eo8if" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/craacky/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="417">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-3026479,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 2,
+      "lastUsed": 1736000611861
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1736000006202
+    },
+    "Database Element": {
+      "usageCount": 1,
+      "lastUsed": 1736000212754
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1736000199023
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1736000611863" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1736000199023" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1736000006202" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="task_managment_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task_managment_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task_managment_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task_managment_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task_managment_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main/java/by/craacky}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="task_managment_system" />
+            <item name="task_managment_system" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="task_managment_system" />
+              <item name="dir{file:///home/craacky/Projects/task_managment_system}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/craacky/Projects/task_managment_system/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/craacky/Projects/task_managment_system/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/by/craacky" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="by.craacky" />
+                      <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main/java/by/craacky}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/by/craacky/Main.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Main" />
+                        <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="resources" />
+                    <item name="dir{file:///home/craacky/Projects/task_managment_system/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file:///home/craacky/Projects/task_managment_system/src/test}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="task_managment_db@localhost: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="412000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23715933" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Bookmarks" order="2" side_tool="true" weight="0.23715933" />
+      <window_info id="MyToolWindow" order="3" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.23715933" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33021653" />
+      <window_info anchor="bottom" id="Database Changes" order="4" weight="0.33021653" />
+      <window_info anchor="bottom" id="Profiler" order="5" weight="0.33021653" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33021653" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.33021653" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.33021653" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.33021653" />
+      <window_info anchor="bottom" id="Services" order="10" weight="0.33021653" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.33021653" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3299266" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="5" weight="0.3299266" />
+      <window_info anchor="right" id="Hierarchy" order="6" weight="0.3299266" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3299266" />
+      <unified_weights bottom="0.33021653" left="0.23715933" right="0.3299266" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Profiler</value>
+      <value>Project</value>
+      <value>Coverage</value>
+      <value>Bookmarks</value>
+      <value>Structure</value>
+      <value>TODO</value>
+      <value>Build</value>
+      <value>Services</value>
+      <value>Database Changes</value>
+      <value>Debug</value>
+      <value>Find</value>
+      <value>Run</value>
+      <value>Endpoints</value>
+      <value>Database</value>
+      <value>Hierarchy</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1736000198878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1736000198878" />
+    <state width="315" height="491" key="HiddenNamespacesPopup" timestamp="1736000205673">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="315" height="491" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1736000205673" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e03c90c2-6137-4c8b-9cce-6d82d8e90883/console.sql" />
+    <entry file="das://e03c90c2-6137-4c8b-9cce-6d82d8e90883/database/task_managment_db/schema/public/table/projects">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1736000212353" presentationMode="TABLE" projectRestartId="3ebb71ad-e83d-4b94-9c7d-912b077c9a4a" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/craacky/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

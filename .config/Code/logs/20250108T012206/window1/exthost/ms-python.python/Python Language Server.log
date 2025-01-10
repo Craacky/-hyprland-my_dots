@@ -1,0 +1,24 @@
+2025-01-08 01:22:11.705 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.1)
+2025-01-08 01:22:12.099 [info] [Info  - 1:22:12 AM] (8607) Server root directory: file:///home/craacky/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-08 01:22:12.103 [info] [Info  - 1:22:12 AM] (8607) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-08 01:22:12.121 [info] [Info  - 1:22:12 AM] (8607) Starting service instance "<default>"
+2025-01-08 01:22:12.164 [info] [Info  - 1:22:12 AM] (8607) Setting environmentName for service "<default>": "3.13.1 (global)"
+2025-01-08 01:22:12.164 [info] [Info  - 1:22:12 AM] (8607) Setting pythonPath for service "<default>": "/sbin/python"
+2025-01-08 01:22:12.164 [info] [Info  - 1:22:12 AM] (8607) No include entries specified; assuming /<default workspace root>
+2025-01-08 01:22:12.165 [info] [Info  - 1:22:12 AM] (8607) Auto-excluding **/node_modules
+2025-01-08 01:22:12.165 [info] [Info  - 1:22:12 AM] (8607) Auto-excluding **/__pycache__
+2025-01-08 01:22:12.165 [info] [Info  - 1:22:12 AM] (8607) Auto-excluding **/.*
+2025-01-08 01:22:12.189 [info] [Info  - 1:22:12 AM] (8607) Assuming Python version 3.13.1.final.0
+2025-01-08 01:22:12.304 [info] [Error - 1:22:12 AM] (8607) File or directory "/<default workspace root>" does not exist.
+2025-01-08 01:22:12.305 [info] [Info  - 1:22:12 AM] (8607) No source files found.
+2025-01-08 01:22:12.336 [info] [Info  - 1:22:12 AM] (8607) Setting environmentName for service "<default>": "3.13.1 (global)"
+2025-01-08 01:22:12.336 [info] [Info  - 1:22:12 AM] (8607) Setting pythonPath for service "<default>": "/sbin/python"
+2025-01-08 01:22:12.336 [info] [Info  - 1:22:12 AM] (8607) No include entries specified; assuming /<default workspace root>
+2025-01-08 01:22:12.336 [info] [Info  - 1:22:12 AM] (8607) Auto-excluding **/node_modules
+2025-01-08 01:22:12.336 [info] [Info  - 1:22:12 AM] (8607) Auto-excluding **/__pycache__
+2025-01-08 01:22:12.336 [info] [Info  - 1:22:12 AM] (8607) Auto-excluding **/.*
+2025-01-08 01:22:12.358 [info] [Info  - 1:22:12 AM] (8607) Assuming Python version 3.13.1.final.0
+2025-01-08 01:22:12.392 [info] [Error - 1:22:12 AM] (8607) File or directory "/<default workspace root>" does not exist.
+2025-01-08 01:22:12.392 [info] [Info  - 1:22:12 AM] (8607) No source files found.
+2025-01-08 01:22:12.584 [info] [Info  - 1:22:12 AM] (8607) Background analysis(1) root directory: file:///home/craacky/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-08 01:22:12.586 [info] [Info  - 1:22:12 AM] (8607) Background analysis(1) started

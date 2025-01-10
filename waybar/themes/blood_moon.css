@@ -1,0 +1,20 @@
+@define-color bg        #10100E;
+@define-color fg        #C6C6C4;
+@define-color black1    #10100E;
+@define-color red1      #C40233;
+@define-color green1    #009F6B;
+@define-color yellow1   #FFD700;
+@define-color blue1     #0087BD;
+@define-color magenta1  #9A4EAE;
+@define-color cyan1     #20B2AA;
+@define-color white1    #C6C6C4;
+@define-color black2    #696969;
+@define-color red2      #FF2400;
+@define-color green2    #03C03C;
+@define-color yellow2   #FDFF00;
+@define-color blue2     #007FFF;
+@define-color magenta2  #FF1493;
+@define-color cyan2     #00CCCC;
+@define-color white2    #FFFAFA;
+
+/* @import "../waybar/themes/blood_moon.css"; put in config*/

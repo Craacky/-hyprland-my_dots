@@ -1,0 +1,106 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Downloads/Telegram Desktop/MiniShop">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MiniShop" projectWorkspaceId="2q6xbfymq3E2zv3PFDhSYguAyPG">
+              <option name="activationTimestamp" value="1735110647320" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="8" y="58" width="945" height="1014" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1735110317351" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/android_labs/lab3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="listview – night/themes.xml" projectWorkspaceId="2qhN2KfKkddTeVU4UDwaNHnTd74">
+              <option name="activationTimestamp" value="1735119877257" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="8" y="58" width="1904" height="1014" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1735115517792" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Telegram Desktop/MyNotesApp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MyNotesApp" projectWorkspaceId="2qNtVbLSahaY54pXHgibPw0pRL7">
+              <option name="activationTimestamp" value="1735120021008" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="8" y="58" width="1904" height="1014" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1735119877582" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/android_labs/lab4">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mynotes – activity_edit_note.xml [mynotes.app.main]" projectWorkspaceId="2qikcaJwHMkvNFbVbWhoDcqeixE">
+              <option name="activationTimestamp" value="1735162255877" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="8" y="58" width="945" height="1014" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1735152863332" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/android_labs/lab4_v2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mynotes – MainActivity.java [mynotes.app.main]" projectWorkspaceId="2qj3etzek7TWJxkJVpbsxX68hHe">
+              <option name="activationTimestamp" value="1735164924852" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="8" y="58" width="1904" height="1014" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1735162255361" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/android_labs/MyNotesApp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MyNotesApp – note_item.xml [MyNotesApp.app.main]" opened="true" projectWorkspaceId="2qNtVbLSahaY54pXHgibPw0pRL7">
+              <option name="activationTimestamp" value="1735166904464" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23339.11.2421.12700392" />
+              <option name="buildTimestamp" value="1732295760000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="8" y="58" width="1904" height="1014" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1735164994215" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Projects/android_labs/MyNotesApp" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects/android_labs" />
+  </component>
+</application>

@@ -1,0 +1,2267 @@
+[2025-01-04 17:46:30.155] [info]                           initializing background
+[2025-01-04 17:46:30.923] [info]  (UTILITY)                17:46:30.920 (utilityPlatformInfo) › {
+  isWindows: false,
+  isMac: false,
+  isArm: false,
+  oracleSupported: true,
+  parsedArgs: { _: [] },
+  isLinux: true,
+  sessionType: 'wayland',
+  isWayland: false,
+  isPortable: false,
+  isDevelopment: false,
+  isAppImage: false,
+  resourcesPath: '/usr/lib/beekeeper-studio',
+  env: { development: false, test: false, production: true },
+  debugEnabled: false,
+  platform: 'linux',
+  darkMode: false,
+  userDirectory: '/home/craacky/.config/beekeeper-studio',
+  downloadsDirectory: '/home/craacky/Downloads',
+  homeDirectory: '/home/craacky',
+  testMode: false,
+  appDbPath: '/home/craacky/.config/beekeeper-studio/app.db',
+  updatesDisabled: true,
+  appVersion: '5.0.9',
+  parsedAppVersion: { major: 5, minor: 0, patch: 9, channel: 'stable' },
+  cloudUrl: 'https://app.beekeeperstudio.io',
+  locale: ''
+}
+
+[2025-01-04 17:46:30.920] [info]  (utilityPlatformInfo) {
+  isWindows: false,
+  isMac: false,
+  isArm: false,
+  oracleSupported: true,
+  parsedArgs: { _: [] },
+  isLinux: true,
+  sessionType: 'wayland',
+  isWayland: false,
+  isPortable: false,
+  isDevelopment: false,
+  isAppImage: false,
+  resourcesPath: '/usr/lib/beekeeper-studio',
+  env: { development: false, test: false, production: true },
+  debugEnabled: false,
+  platform: 'linux',
+  darkMode: false,
+  userDirectory: '/home/craacky/.config/beekeeper-studio',
+  downloadsDirectory: '/home/craacky/Downloads',
+  homeDirectory: '/home/craacky',
+  testMode: false,
+  appDbPath: '/home/craacky/.config/beekeeper-studio/app.db',
+  updatesDisabled: true,
+  appVersion: '5.0.9',
+  parsedAppVersion: { major: 5, minor: 0, patch: 9, channel: 'stable' },
+  cloudUrl: 'https://app.beekeeperstudio.io',
+  locale: ''
+}
+[2025-01-04 17:46:31.389] [info]                           window created!!!
+[2025-01-04 17:46:31.906] [info]  (UtilityProcess)      RECEIVED PORT:  {
+  _events: {},
+  _eventsCount: 0,
+  _internalPort: {
+    postMessage: '[function] function postMessage() { [native code] }',
+    start: '[function] function start() { [native code] }',
+    close: '[function] function close() { [native code] }',
+    emit: '[function] (e,t)=>{"message"===e&&(t={...t,ports:t.ports.map((e=>new MessagePortMain(e)))}),this.emit(e,t)}'
+  }
+}
+[2025-01-04 17:46:31.906] [info]  (UTILITY)                    17:46:31.906 (UtilityProcess)      › RECEIVED PORT:  {
+  _events: {},
+  _eventsCount: 0,
+  _internalPort: {
+    postMessage: '[function] function postMessage() { [native code] }',
+    start: '[function] function start() { [native code] }',
+    close: '[function] function close() { [native code] }',
+    emit: '[function] (e,t)=>{"message"===e&&(t={...t,ports:t.ports.map((e=>new MessagePortMain(e)))}),this.emit(e,t)}'
+  }
+}
+
+[2025-01-04 17:46:31.910] [info]  (preload.ts)                 Received port in renderer with sId:  40a95620-a1a1-4ca3-83a9-f4ac6ddb43b2
+[2025-01-04 17:46:31.911] [info]  (main.ts)                    GOT PORT:  {} 40a95620-a1a1-4ca3-83a9-f4ac6ddb43b2
+[2025-01-04 17:46:31.912] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/getStatus d8ae4a1b-7786-492e-b0e7-511d4e3e3a44
+[2025-01-04 17:46:31.912] [info]  (UTILITY)                    17:46:31.912 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/getStatus d8ae4a1b-7786-492e-b0e7-511d4e3e3a44
+
+[2025-01-04 17:46:31.913] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/find b86544ec-527f-47d9-9bd3-28ec65c0bd28
+[2025-01-04 17:46:31.913] [info]  (UTILITY)                    17:46:31.913 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/find b86544ec-527f-47d9-9bd3-28ec65c0bd28
+
+[2025-01-04 17:46:31.915] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/get a8e8a7f9-55af-40a8-8ce1-ec91d9637a4c
+[2025-01-04 17:46:31.915] [info]  (UTILITY)                    17:46:31.915 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/get a8e8a7f9-55af-40a8-8ce1-ec91d9637a4c
+
+[2025-01-04 17:46:31.917] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  enum/init 6cdef420-f823-4aa2-b386-e4d06f8d99fd
+[2025-01-04 17:46:31.917] [info]  (UTILITY)                    17:46:31.917 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  enum/init 6cdef420-f823-4aa2-b386-e4d06f8d99fd
+
+[2025-01-04 17:46:31.918] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  enum/load 4c5f6693-251e-4156-9579-19870e868999
+[2025-01-04 17:46:31.918] [info]  (UTILITY)                    17:46:31.918 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  enum/load 4c5f6693-251e-4156-9579-19870e868999
+
+[2025-01-04 17:46:31.934] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/query/find 2cb05720-88e7-43dc-ab36-a9012598ce10
+[2025-01-04 17:46:31.935] [info]  (UTILITY)                    17:46:31.934 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/query/find 2cb05720-88e7-43dc-ab36-a9012598ce10
+
+[2025-01-04 17:46:31.936] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/saved/find eaec916d-771d-41af-be28-cde71e92e949
+[2025-01-04 17:46:31.936] [info]  (UTILITY)                    17:46:31.936 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/saved/find eaec916d-771d-41af-be28-cde71e92e949
+
+[2025-01-04 17:46:31.937] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/usedQuery/find 3e7a387f-6892-425d-b7d8-1f97687a657c
+[2025-01-04 17:46:31.938] [info]  (UTILITY)                    17:46:31.937 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/usedQuery/find 3e7a387f-6892-425d-b7d8-1f97687a657c
+
+[2025-01-04 17:46:31.939] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/used/find 6f0dcc15-08fa-4429-af2c-108b479dd9d1
+[2025-01-04 17:46:31.939] [info]  (UTILITY)                    17:46:31.939 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/used/find 6f0dcc15-08fa-4429-af2c-108b479dd9d1
+
+[2025-01-04 17:46:31.968] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/credential/find 6174a851-0dc3-46e4-923b-8d2facf98f65
+[2025-01-04 17:46:31.969] [info]  (UTILITY)                    17:46:31.968 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/credential/find 6174a851-0dc3-46e4-923b-8d2facf98f65
+
+[2025-01-04 17:46:32.029] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 49237e9c-5f92-4c2b-9f36-fa19a737cbfb
+[2025-01-04 17:46:32.029] [info]  (UTILITY)                    17:46:32.029 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 49237e9c-5f92-4c2b-9f36-fa19a737cbfb
+
+[2025-01-04 17:46:32.030] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 047eeac4-dce9-4a30-a5f0-0488a3928b04
+[2025-01-04 17:46:32.030] [info]  (UTILITY)                    17:46:32.030 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 047eeac4-dce9-4a30-a5f0-0488a3928b04
+
+[2025-01-04 17:46:32.030] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new c5aeff4c-ee18-4c56-a1c7-74001439cdf2
+[2025-01-04 17:46:32.030] [info]  (UTILITY)                    17:46:32.030 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new c5aeff4c-ee18-4c56-a1c7-74001439cdf2
+
+[2025-01-04 17:46:32.032] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/pinconn/find 9566b154-9cdb-4e27-89be-d158f788bdf0
+[2025-01-04 17:46:32.032] [info]  (UTILITY)                    17:46:32.032 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/pinconn/find 9566b154-9cdb-4e27-89be-d158f788bdf0
+
+[2025-01-04 17:46:32.078] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new c9f8bb3f-ca6a-4a05-9f30-8c68ff8c8734
+[2025-01-04 17:46:32.079] [info]  (UTILITY)                    17:46:32.078 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new c9f8bb3f-ca6a-4a05-9f30-8c68ff8c8734
+
+[2025-01-04 17:46:32.080] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/pinconn/save 86296ab1-762a-4c60-8cbb-0c323029cacf
+[2025-01-04 17:46:32.080] [info]  (UTILITY)                    17:46:32.080 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/pinconn/save 86296ab1-762a-4c60-8cbb-0c323029cacf
+
+[2025-01-04 17:46:32.086] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/credential/find 3313997c-deb5-45ec-bb5d-aa52caebf792
+[2025-01-04 17:46:32.087] [info]  (UTILITY)                    17:46:32.086 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/credential/find 3313997c-deb5-45ec-bb5d-aa52caebf792
+
+[2025-01-04 17:46:36.276] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new 5dc056d6-e974-4e72-8164-c759e70567b8
+[2025-01-04 17:46:36.276] [info]  (UTILITY)                    17:46:36.276 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new 5dc056d6-e974-4e72-8164-c759e70567b8
+
+[2025-01-04 17:46:37.623] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/create 97926dc8-5af1-4fa5-a0ed-5c0ada5fb839
+[2025-01-04 17:46:37.623] [info]  (UTILITY)                    17:46:37.623 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/create 97926dc8-5af1-4fa5-a0ed-5c0ada5fb839
+
+[2025-01-04 17:46:37.634] [debug] (postgresql)          connected
+[2025-01-04 17:46:37.634] [info]  (UTILITY)                    17:46:37.634 (postgresql)          › connected
+
+[2025-01-04 17:46:37.636] [info]  (postgresql)          Acquiring new connection for:  SELECT CURRENT_SCHEMA() AS schema
+[2025-01-04 17:46:37.636] [info]  (UTILITY)                    17:46:37.636 (postgresql)          › Acquiring new connection for:  SELECT CURRENT_SCHEMA() AS schema
+
+[2025-01-04 17:46:37.636] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.636] [info]  (UTILITY)                    17:46:37.636 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:46:37.636] [info]  (postgresql)          RUNNING SELECT CURRENT_SCHEMA() AS schema undefined
+[2025-01-04 17:46:37.636] [info]  (UTILITY)                    17:46:37.636 (postgresql)          › RUNNING SELECT CURRENT_SCHEMA() AS schema null
+
+[2025-01-04 17:46:37.637] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.637] [info]  (UTILITY)                    17:46:37.637 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.638] [info]  (postgresql)          Acquiring new connection for:  select version()
+[2025-01-04 17:46:37.638] [info]  (UTILITY)                    17:46:37.638 (postgresql)          › Acquiring new connection for:  select version()
+
+[2025-01-04 17:46:37.638] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.638] [info]  (UTILITY)                    17:46:37.638 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:46:37.638] [info]  (postgresql)          RUNNING select version() undefined
+[2025-01-04 17:46:37.638] [info]  (UTILITY)                    17:46:37.638 (postgresql)          › RUNNING select version() null
+
+[2025-01-04 17:46:37.638] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.638] [info]  (UTILITY)                    17:46:37.638 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.639] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid);
+[2025-01-04 17:46:37.639] [info]  (UTILITY)                    17:46:37.639 (postgresql)          › Acquiring new connection for:  
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid);
+
+[2025-01-04 17:46:37.639] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.640] [info]  (postgresql)          RUNNING 
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid); undefined
+[2025-01-04 17:46:37.640] [info]  (UTILITY)                    17:46:37.639 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:46:37.640] [info]  (UTILITY)                    17:46:37.640 (postgresql)          › RUNNING 
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid); null
+
+[2025-01-04 17:46:37.641] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.642] [info]  (UTILITY)                    17:46:37.641 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.643] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/defaultSchema 07ccf839-83df-46e4-9d28-fdbd274b0f4e
+[2025-01-04 17:46:37.643] [info]  (UTILITY)                    17:46:37.643 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/defaultSchema 07ccf839-83df-46e4-9d28-fdbd274b0f4e
+
+[2025-01-04 17:46:37.643] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/supportedFeatures 49ddb79f-835f-4550-b47b-c9d1a163ce96
+[2025-01-04 17:46:37.643] [info]  (UTILITY)                    17:46:37.643 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/supportedFeatures 49ddb79f-835f-4550-b47b-c9d1a163ce96
+
+[2025-01-04 17:46:37.644] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/defaultSchema 06e6b645-baf8-4d35-9c39-5069bbc8b79e
+[2025-01-04 17:46:37.644] [info]  (UTILITY)                    17:46:37.644 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/defaultSchema 06e6b645-baf8-4d35-9c39-5069bbc8b79e
+
+[2025-01-04 17:46:37.644] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/getServerConfig 98a664a4-7a5b-4124-8269-9d3300e6029d
+[2025-01-04 17:46:37.644] [info]  (UTILITY)                    17:46:37.644 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/getServerConfig 98a664a4-7a5b-4124-8269-9d3300e6029d
+
+[2025-01-04 17:46:37.646] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listDatabases 3234da6c-a297-4ad5-baa4-b5d15897d0b4
+[2025-01-04 17:46:37.646] [info]  (UTILITY)                    17:46:37.646 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listDatabases 3234da6c-a297-4ad5-baa4-b5d15897d0b4
+
+[2025-01-04 17:46:37.647] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+    
+[2025-01-04 17:46:37.647] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.647] [info]  (UTILITY)                    17:46:37.647 (postgresql)          › Acquiring new connection for:  
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+    
+
+[2025-01-04 17:46:37.647] [info]  (postgresql)          RUNNING 
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+     [ false ]
+[2025-01-04 17:46:37.647] [info]  (UTILITY)                    17:46:37.647 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:46:37.647] [info]  (UTILITY)                    17:46:37.647 (postgresql)          › RUNNING 
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+     [ false ]
+
+[2025-01-04 17:46:37.648] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.648] [info]  (UTILITY)                    17:46:37.648 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.651] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/pins/find 4d869eed-e0df-439d-8989-cea171311fe9
+[2025-01-04 17:46:37.651] [info]  (UTILITY)                    17:46:37.651 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/pins/find 4d869eed-e0df-439d-8989-cea171311fe9
+
+[2025-01-04 17:46:37.652] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/hiddenEntity/find aa7d8d03-3201-422f-a1fa-b138eb812091
+[2025-01-04 17:46:37.652] [info]  (UTILITY)                    17:46:37.652 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/hiddenEntity/find aa7d8d03-3201-422f-a1fa-b138eb812091
+
+[2025-01-04 17:46:37.672] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 1df78535-4fda-47ec-a1b9-83f61b3fbd8c
+[2025-01-04 17:46:37.672] [info]  (UTILITY)                    17:46:37.672 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 1df78535-4fda-47ec-a1b9-83f61b3fbd8c
+
+[2025-01-04 17:46:37.672] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 5ee1124e-2bdd-4c1c-8903-3dad372918ad
+[2025-01-04 17:46:37.672] [info]  (UTILITY)                    17:46:37.672 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 5ee1124e-2bdd-4c1c-8903-3dad372918ad
+
+[2025-01-04 17:46:37.675] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/find 819bfea6-098b-4575-a927-49f482e3bdfb
+[2025-01-04 17:46:37.676] [info]  (UTILITY)                    17:46:37.675 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/find 819bfea6-098b-4575-a927-49f482e3bdfb
+
+[2025-01-04 17:46:37.686] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listTables e2ea0520-41e0-41c6-9e5f-a628d4df1200
+[2025-01-04 17:46:37.686] [info]  (UTILITY)                    17:46:37.686 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listTables e2ea0520-41e0-41c6-9e5f-a628d4df1200
+
+[2025-01-04 17:46:37.687] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+    
+[2025-01-04 17:46:37.687] [info]  (UTILITY)                    17:46:37.687 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+    
+
+[2025-01-04 17:46:37.687] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.688] [info]  (UTILITY)                    17:46:37.687 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:46:37.688] [info]  (postgresql)          RUNNING 
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+     undefined
+[2025-01-04 17:46:37.688] [info]  (UTILITY)                    17:46:37.688 (postgresql)          › RUNNING 
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+     null
+
+[2025-01-04 17:46:37.689] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/hiddenSchema/find d00c63cb-e4f0-4b8c-a461-3a646c13033b
+[2025-01-04 17:46:37.689] [info]  (UTILITY)                    17:46:37.689 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/hiddenSchema/find d00c63cb-e4f0-4b8c-a461-3a646c13033b
+
+[2025-01-04 17:46:37.689] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/set ae257885-b4f6-4074-a5ea-e75794d2a824
+[2025-01-04 17:46:37.689] [info]  (UTILITY)                    17:46:37.689 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/set ae257885-b4f6-4074-a5ea-e75794d2a824
+
+[2025-01-04 17:46:37.693] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/set 3dc5883e-ee1b-49a5-bc08-70bdfa3885ac
+[2025-01-04 17:46:37.693] [info]  (UTILITY)                    17:46:37.693 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/set 3dc5883e-ee1b-49a5-bc08-70bdfa3885ac
+
+[2025-01-04 17:46:37.694] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 781ad53d-0bc3-410a-be05-491d0dbc779b
+[2025-01-04 17:46:37.694] [info]  (UTILITY)                    17:46:37.694 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 781ad53d-0bc3-410a-be05-491d0dbc779b
+
+[2025-01-04 17:46:37.694] [info]  (Appdb handlers)      Saving tabs:  {
+  id: null,
+  createdAt: '2025-01-04T14:46:37.694Z',
+  updatedAt: '2025-01-04T14:46:37.694Z',
+  tabType: 'query',
+  unsavedChanges: false,
+  alert: false,
+  position: 1,
+  isRunning: false,
+  title: 'Query #1',
+  connectionId: 2,
+  workspaceId: -1
+}
+[2025-01-04 17:46:37.694] [info]  (UTILITY)                    17:46:37.694 (Appdb handlers)      › Saving tabs:  {
+  id: null,
+  createdAt: '2025-01-04T14:46:37.694Z',
+  updatedAt: '2025-01-04T14:46:37.694Z',
+  tabType: 'query',
+  unsavedChanges: false,
+  alert: false,
+  position: 1,
+  isRunning: false,
+  title: 'Query #1',
+  connectionId: 2,
+  workspaceId: -1
+}
+
+[2025-01-04 17:46:37.706] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.706] [info]  (UTILITY)                    17:46:37.706 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.727] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save a95903f8-89bc-4203-9a1f-3bbba4d9d743
+[2025-01-04 17:46:37.727] [info]  (UTILITY)                    17:46:37.727 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save a95903f8-89bc-4203-9a1f-3bbba4d9d743
+
+[2025-01-04 17:46:37.760] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listViews d46daa08-990e-4d7f-af55-d053e53a3be0
+[2025-01-04 17:46:37.761] [info]  (UTILITY)                    17:46:37.760 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listViews d46daa08-990e-4d7f-af55-d053e53a3be0
+
+[2025-01-04 17:46:37.761] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+    
+[2025-01-04 17:46:37.761] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.761] [info]  (UTILITY)                    17:46:37.761 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+    
+
+[2025-01-04 17:46:37.761] [info]  (postgresql)          RUNNING 
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+     undefined
+[2025-01-04 17:46:37.761] [info]  (UTILITY)                    17:46:37.761 (postgresql)          › Pool event: connection acquired
+17:46:37.761 (postgresql)          › RUNNING 
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+     null
+
+[2025-01-04 17:46:37.763] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.763] [info]  (UTILITY)                    17:46:37.763 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.765] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listMaterializedViews f6154001-7bb5-4282-b2f5-508b9276c4b8
+[2025-01-04 17:46:37.765] [info]  (UTILITY)                    17:46:37.765 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listMaterializedViews f6154001-7bb5-4282-b2f5-508b9276c4b8
+
+[2025-01-04 17:46:37.765] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+    
+[2025-01-04 17:46:37.765] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.765] [info]  (UTILITY)                    17:46:37.765 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+    
+
+[2025-01-04 17:46:37.765] [info]  (postgresql)          RUNNING 
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+     undefined
+[2025-01-04 17:46:37.765] [info]  (UTILITY)                    17:46:37.765 (postgresql)          › Pool event: connection acquired
+17:46:37.765 (postgresql)          › RUNNING 
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+     null
+
+[2025-01-04 17:46:37.766] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.766] [info]  (UTILITY)                    17:46:37.766 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.779] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listRoutines a30aeac5-3491-4347-8b2b-9e53454f7742
+[2025-01-04 17:46:37.779] [info]  (UTILITY)                    17:46:37.779 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listRoutines a30aeac5-3491-4347-8b2b-9e53454f7742
+
+[2025-01-04 17:46:37.780] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+    
+[2025-01-04 17:46:37.780] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.780] [info]  (UTILITY)                    17:46:37.780 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+    
+
+[2025-01-04 17:46:37.780] [info]  (postgresql)          RUNNING 
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+     undefined
+[2025-01-04 17:46:37.780] [info]  (UTILITY)                    17:46:37.780 (postgresql)          › Pool event: connection acquired
+17:46:37.780 (postgresql)          › RUNNING 
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+     null
+
+[2025-01-04 17:46:37.788] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.789] [info]  (UTILITY)                    17:46:37.788 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.789] [info]  (postgresql)          Acquiring new connection for:  
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+    
+[2025-01-04 17:46:37.789] [info]  (UTILITY)                    17:46:37.789 (postgresql)          › Acquiring new connection for:  
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+    
+
+[2025-01-04 17:46:37.789] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:37.789] [info]  (postgresql)          RUNNING 
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+     undefined
+[2025-01-04 17:46:37.789] [info]  (UTILITY)                    17:46:37.789 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:46:37.789] [info]  (UTILITY)                    17:46:37.789 (postgresql)          › RUNNING 
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+     null
+
+[2025-01-04 17:46:37.826] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:37.826] [info]  (UTILITY)                    17:46:37.826 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:46:37.834] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/used/save 64963b76-95b7-40ca-bea9-a18ca86070ea
+[2025-01-04 17:46:37.834] [info]  (UTILITY)                    17:46:37.834 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/used/save 64963b76-95b7-40ca-bea9-a18ca86070ea
+
+[2025-01-04 17:46:37.834] [info]  (Appdb handlers)      Saving used:  {
+  id: null,
+  createdAt: '2025-01-04T14:46:37.834Z',
+  updatedAt: '2025-01-04T14:46:37.834Z',
+  _connectionType: 'postgresql',
+  host: 'localhost',
+  _port: 5432,
+  _socketPath: '/var/run/postgresql',
+  socketPathEnabled: false,
+  username: 'craacky',
+  domain: null,
+  defaultDatabase: 'task_managment_db',
+  uri: null,
+  uniqueHash: 'DEPRECATED',
+  sshEnabled: false,
+  sshHost: null,
+  sshPort: 22,
+  sshKeyfile: null,
+  sshUsername: null,
+  sshBastionHost: null,
+  sshKeepaliveInterval: 60,
+  ssl: false,
+  sslCaFile: null,
+  sslCertFile: null,
+  sslKeyFile: null,
+  sslRejectUnauthorized: true,
+  readOnlyMode: false,
+  options: {},
+  redshiftOptions: {},
+  cassandraOptions: {},
+  bigQueryOptions: {},
+  azureAuthOptions: {},
+  authId: null,
+  libsqlOptions: { mode: 'url' },
+  trustServerCertificate: false,
+  serviceName: null,
+  connectionId: 2,
+  workspaceId: -1
+}
+[2025-01-04 17:46:37.835] [info]  (UTILITY)                    17:46:37.834 (Appdb handlers)      › Saving used:  {
+  id: null,
+  createdAt: '2025-01-04T14:46:37.834Z',
+  updatedAt: '2025-01-04T14:46:37.834Z',
+  _connectionType: 'postgresql',
+  host: 'localhost',
+  _port: 5432,
+  _socketPath: '/var/run/postgresql',
+  socketPathEnabled: false,
+  username: 'craacky',
+  domain: null,
+  defaultDatabase: 'task_managment_db',
+  uri: null,
+  uniqueHash: 'DEPRECATED',
+  sshEnabled: false,
+  sshHost: null,
+  sshPort: 22,
+  sshKeyfile: null,
+  sshUsername: null,
+  sshBastionHost: null,
+  sshKeepaliveInterval: 60,
+  ssl: false,
+  sslCaFile: null,
+  sslCertFile: null,
+  sslKeyFile: null,
+  sslRejectUnauthorized: true,
+  readOnlyMode: false,
+  options: {},
+  redshiftOptions: {},
+  cassandraOptions: {},
+  bigQueryOptions: {},
+  azureAuthOptions: {},
+  authId: null,
+  libsqlOptions: { mode: 'url' },
+  trustServerCertificate: false,
+  serviceName: null,
+  connectionId: 2,
+  workspaceId: -1
+}
+
+[2025-01-04 17:46:38.228] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 661f06b0-9220-4c82-825c-837602f48f0b
+[2025-01-04 17:46:38.228] [info]  (UTILITY)                    17:46:38.228 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 661f06b0-9220-4c82-825c-837602f48f0b
+
+[2025-01-04 17:46:56.020] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listDatabases b70a1c2d-decb-4a94-9d40-d5f2abd3ded7
+[2025-01-04 17:46:56.020] [info]  (UTILITY)                    17:46:56.020 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listDatabases b70a1c2d-decb-4a94-9d40-d5f2abd3ded7
+
+[2025-01-04 17:46:56.021] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+    
+[2025-01-04 17:46:56.021] [info]  (UTILITY)                    17:46:56.021 (postgresql)          › Acquiring new connection for:  
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+    
+
+[2025-01-04 17:46:56.021] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:46:56.021] [info]  (UTILITY)                    17:46:56.021 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:46:56.021] [info]  (postgresql)          RUNNING 
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+     [ false ]
+[2025-01-04 17:46:56.021] [info]  (UTILITY)                    17:46:56.021 (postgresql)          › RUNNING 
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+     [ false ]
+
+[2025-01-04 17:46:56.022] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:46:56.022] [info]  (UTILITY)                    17:46:56.022 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:47:23.537] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listCharsets d6e90830-c48e-4269-a7e8-69265367baf3
+[2025-01-04 17:47:23.537] [info]  (UTILITY)                    17:47:23.537 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listCharsets d6e90830-c48e-4269-a7e8-69265367baf3
+
+[2025-01-04 17:47:23.539] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/getDefaultCharset ef18c8eb-50e0-4a3f-b659-a6e455fbb10b
+[2025-01-04 17:47:23.539] [info]  (UTILITY)                    17:47:23.539 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/getDefaultCharset ef18c8eb-50e0-4a3f-b659-a6e455fbb10b
+
+[2025-01-04 17:47:23.541] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listCollations 7e36e457-de31-4e02-9f37-d9fe8fc01961
+[2025-01-04 17:47:23.541] [info]  (UTILITY)                    17:47:23.541 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listCollations 7e36e457-de31-4e02-9f37-d9fe8fc01961
+
+[2025-01-04 17:47:23.541] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listCollations 35a62790-5a9c-4e75-a17d-982466df41e8
+[2025-01-04 17:47:23.542] [info]  (UTILITY)                    17:47:23.541 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listCollations 35a62790-5a9c-4e75-a17d-982466df41e8
+
+[2025-01-04 17:47:31.917] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/getStatus 8ee69984-ac01-4cb3-ab9e-201c60137ade
+[2025-01-04 17:47:31.917] [info]  (UTILITY)                    17:47:31.917 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/getStatus 8ee69984-ac01-4cb3-ab9e-201c60137ade
+
+[2025-01-04 17:47:31.918] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/get 1255a3f9-d4dd-4264-b660-117cc95689f1
+[2025-01-04 17:47:31.918] [info]  (UTILITY)                    17:47:31.918 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/get 1255a3f9-d4dd-4264-b660-117cc95689f1
+
+[2025-01-04 17:47:31.925] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/getStatus 59f43f50-d201-48da-961e-664b9a458554
+[2025-01-04 17:47:31.925] [info]  (UTILITY)                    17:47:31.925 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/getStatus 59f43f50-d201-48da-961e-664b9a458554
+
+[2025-01-04 17:47:31.926] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/get 7ff07272-5b36-4bd5-9986-b7145141dd4b
+[2025-01-04 17:47:31.926] [info]  (UTILITY)                    17:47:31.926 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/get 7ff07272-5b36-4bd5-9986-b7145141dd4b
+
+[2025-01-04 17:48:13.556] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 32fe43b2-23a1-4b21-ab3a-b482197e4b7a
+[2025-01-04 17:48:13.556] [info]  (UTILITY)                    17:48:13.556 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 32fe43b2-23a1-4b21-ab3a-b482197e4b7a
+
+[2025-01-04 17:48:26.023] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save c4b79a1e-5e55-40a0-8800-d4361e7de506
+[2025-01-04 17:48:26.023] [info]  (UTILITY)                    17:48:26.023 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save c4b79a1e-5e55-40a0-8800-d4361e7de506
+
+[2025-01-04 17:48:31.917] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/getStatus ac8cebbe-442f-459b-b792-741a9ad75768
+[2025-01-04 17:48:31.917] [info]  (UTILITY)                    17:48:31.917 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/getStatus ac8cebbe-442f-459b-b792-741a9ad75768
+
+[2025-01-04 17:48:31.933] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/get 7a702e12-330c-44fa-8d34-9706b061e9fb
+[2025-01-04 17:48:31.933] [info]  (UTILITY)                    17:48:31.933 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/get 7a702e12-330c-44fa-8d34-9706b061e9fb
+
+[2025-01-04 17:48:31.933] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/getStatus 6dfee005-8fe1-41f8-9198-133f8222a0b4
+[2025-01-04 17:48:31.934] [info]  (UTILITY)                    17:48:31.933 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/getStatus 6dfee005-8fe1-41f8-9198-133f8222a0b4
+
+[2025-01-04 17:48:31.937] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/get 0801b578-1321-4ca0-8fb5-2e49e9b59099
+[2025-01-04 17:48:31.937] [info]  (UTILITY)                    17:48:31.937 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/get 0801b578-1321-4ca0-8fb5-2e49e9b59099
+
+[2025-01-04 17:48:34.567] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 31dc28ee-6111-4073-b675-dd12347830cc
+[2025-01-04 17:48:34.567] [info]  (UTILITY)                    17:48:34.567 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 31dc28ee-6111-4073-b675-dd12347830cc
+
+[2025-01-04 17:48:35.858] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/query 7302a75e-60fc-465c-b266-ed933f5c29d3
+[2025-01-04 17:48:35.858] [info]  (UTILITY)                    17:48:35.858 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/query 7302a75e-60fc-465c-b266-ed933f5c29d3
+
+[2025-01-04 17:48:35.861] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  query/execute 74df52e5-2b77-44ca-9ef7-dd38312289bf
+[2025-01-04 17:48:35.861] [info]  (UTILITY)                    17:48:35.861 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  query/execute 74df52e5-2b77-44ca-9ef7-dd38312289bf
+
+[2025-01-04 17:48:35.861] [info]  (postgresql)          Acquiring new connection for:  SELECT pg_backend_pid() AS pid
+[2025-01-04 17:48:35.862] [info]  (UTILITY)                    17:48:35.861 (postgresql)          › Acquiring new connection for:  SELECT pg_backend_pid() AS pid
+
+[2025-01-04 17:48:35.864] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:35.864] [info]  (UTILITY)                    17:48:35.864 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:35.864] [info]  (postgresql)          RUNNING SELECT pg_backend_pid() AS pid undefined
+[2025-01-04 17:48:35.864] [info]  (UTILITY)                    17:48:35.864 (postgresql)          › RUNNING SELECT pg_backend_pid() AS pid null
+
+[2025-01-04 17:48:35.865] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:35.865] [info]  (UTILITY)                    17:48:35.865 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:35.865] [info]  (postgresql)          Acquiring new connection for:  ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+
+[2025-01-04 17:48:35.866] [info]  (UTILITY)                    17:48:35.865 (postgresql)          › Acquiring new connection for:  ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+
+
+[2025-01-04 17:48:35.866] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:35.866] [info]  (postgresql)          RUNNING ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+ undefined
+[2025-01-04 17:48:35.866] [info]  (UTILITY)                    17:48:35.866 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:35.866] [info]  (UTILITY)                    17:48:35.866 (postgresql)          › RUNNING ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+ null
+
+[2025-01-04 17:48:35.866] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:35.866] [info]  (UTILITY)                    17:48:35.866 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:35.867] [error] (UtilityProcess)      HANDLER: ERROR error: current database cannot be renamed
+    at Parser2.parseErrorMessage (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55535:99)
+    at Parser2.handlePacket (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55376:25)
+    at Parser2.parse (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55300:34)
+    at Socket.<anonymous> (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55576:46)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+[2025-01-04 17:48:35.867] [error] (UTILITY)                    17:48:35.867 (UtilityProcess)      › HANDLER: ERROR error: current database cannot be renamed
+    at Parser2.parseErrorMessage (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55535:99)
+    at Parser2.handlePacket (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55376:25)
+    at Parser2.parse (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55300:34)
+    at Socket.<anonymous> (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55576:46)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+[2025-01-04 17:48:35.867] [error] (renderer/utilityconnection) GOT ERROR BACK FOR REQUEST ID:  74df52e5-2b77-44ca-9ef7-dd38312289bf
+[2025-01-04 17:48:35.867] [error] (query-editor)               error: current database cannot be renamed
+    at Parser2.parseErrorMessage (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55535:99)
+    at Parser2.handlePacket (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55376:25)
+    at Parser2.parse (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55300:34)
+    at Socket.<anonymous> (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55576:46)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+[2025-01-04 17:48:44.987] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/changeDatabase 5c4b3b92-22bf-4044-b3a7-ff3f671627fb
+[2025-01-04 17:48:44.987] [info]  (UTILITY)                    17:48:44.987 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/changeDatabase 5c4b3b92-22bf-4044-b3a7-ff3f671627fb
+
+[2025-01-04 17:48:44.990] [debug] (postgresql)          connected
+[2025-01-04 17:48:44.990] [info]  (postgresql)          Acquiring new connection for:  SELECT CURRENT_SCHEMA() AS schema
+[2025-01-04 17:48:44.990] [info]  (UTILITY)                    17:48:44.990 (postgresql)          › connected
+
+[2025-01-04 17:48:44.990] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:44.990] [info]  (UTILITY)                    17:48:44.990 (postgresql)          › Acquiring new connection for:  SELECT CURRENT_SCHEMA() AS schema
+17:48:44.990 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:44.990] [info]  (postgresql)          RUNNING SELECT CURRENT_SCHEMA() AS schema undefined
+[2025-01-04 17:48:44.990] [info]  (UTILITY)                    17:48:44.990 (postgresql)          › RUNNING SELECT CURRENT_SCHEMA() AS schema null
+
+[2025-01-04 17:48:44.990] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:44.991] [info]  (UTILITY)                    17:48:44.990 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:44.991] [info]  (postgresql)          Acquiring new connection for:  select version()
+[2025-01-04 17:48:44.991] [info]  (UTILITY)                    17:48:44.991 (postgresql)          › Acquiring new connection for:  select version()
+
+[2025-01-04 17:48:44.991] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:44.991] [info]  (postgresql)          RUNNING select version() undefined
+[2025-01-04 17:48:44.991] [info]  (UTILITY)                    17:48:44.991 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:44.991] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:44.991] [info]  (UTILITY)                    17:48:44.991 (postgresql)          › RUNNING select version() null
+17:48:44.991 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:44.992] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid);
+[2025-01-04 17:48:44.992] [info]  (UTILITY)                    17:48:44.992 (postgresql)          › Acquiring new connection for:  
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid);
+
+[2025-01-04 17:48:44.992] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:44.992] [info]  (postgresql)          RUNNING 
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid); undefined
+[2025-01-04 17:48:44.992] [info]  (UTILITY)                    17:48:44.992 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:44.992] [info]  (UTILITY)                    17:48:44.992 (postgresql)          › RUNNING 
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid); null
+
+[2025-01-04 17:48:44.994] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:44.994] [info]  (UTILITY)                    17:48:44.994 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:44.994] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listTables 007200a0-43dc-4634-b41a-6d3a88b51a12
+[2025-01-04 17:48:44.994] [info]  (UTILITY)                    17:48:44.994 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listTables 007200a0-43dc-4634-b41a-6d3a88b51a12
+
+[2025-01-04 17:48:44.995] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+    
+[2025-01-04 17:48:44.995] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:44.995] [info]  (postgresql)          RUNNING 
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+     undefined
+[2025-01-04 17:48:44.995] [info]  (UTILITY)                    17:48:44.995 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+    
+
+[2025-01-04 17:48:44.995] [info]  (UTILITY)                    17:48:44.995 (postgresql)          › Pool event: connection acquired
+17:48:44.995 (postgresql)          › RUNNING 
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+     null
+
+[2025-01-04 17:48:44.999] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:44.999] [info]  (UTILITY)                    17:48:44.999 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:45.002] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listViews dda44ef2-a598-4391-8f56-7309d042cfdc
+[2025-01-04 17:48:45.002] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+    
+[2025-01-04 17:48:45.002] [info]  (UTILITY)                    17:48:45.002 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listViews dda44ef2-a598-4391-8f56-7309d042cfdc
+
+[2025-01-04 17:48:45.003] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:45.003] [info]  (postgresql)          RUNNING 
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+     undefined
+[2025-01-04 17:48:45.003] [info]  (UTILITY)                    17:48:45.002 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+    
+17:48:45.003 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:45.003] [info]  (UTILITY)                    17:48:45.003 (postgresql)          › RUNNING 
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+     null
+
+[2025-01-04 17:48:45.004] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:45.004] [info]  (UTILITY)                    17:48:45.004 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:45.005] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listMaterializedViews 6138996b-75ae-40ec-a729-c85b2dedc647
+[2025-01-04 17:48:45.005] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+    
+[2025-01-04 17:48:45.005] [info]  (UTILITY)                    17:48:45.005 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listMaterializedViews 6138996b-75ae-40ec-a729-c85b2dedc647
+
+[2025-01-04 17:48:45.005] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:45.005] [info]  (postgresql)          RUNNING 
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+     undefined
+[2025-01-04 17:48:45.005] [info]  (UTILITY)                    17:48:45.005 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+    
+17:48:45.005 (postgresql)          › Pool event: connection acquired
+17:48:45.005 (postgresql)          › RUNNING 
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+     null
+
+[2025-01-04 17:48:45.006] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:45.006] [info]  (UTILITY)                    17:48:45.006 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:45.021] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listDatabases 44975647-187e-4ff2-8373-513e0d50c5cc
+[2025-01-04 17:48:45.022] [info]  (UTILITY)                    17:48:45.021 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listDatabases 44975647-187e-4ff2-8373-513e0d50c5cc
+
+[2025-01-04 17:48:45.022] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+    
+[2025-01-04 17:48:45.022] [info]  (UTILITY)                    17:48:45.022 (postgresql)          › Acquiring new connection for:  
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+    
+
+[2025-01-04 17:48:45.022] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:45.022] [info]  (UTILITY)                    17:48:45.022 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:45.022] [info]  (postgresql)          RUNNING 
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+     [ false ]
+[2025-01-04 17:48:45.022] [info]  (UTILITY)                    17:48:45.022 (postgresql)          › RUNNING 
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+     [ false ]
+
+[2025-01-04 17:48:45.023] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:45.023] [info]  (UTILITY)                    17:48:45.023 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:45.027] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listRoutines e21faf8e-5a7a-4123-9bc2-993e29830b06
+[2025-01-04 17:48:45.027] [info]  (UTILITY)                    17:48:45.027 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listRoutines e21faf8e-5a7a-4123-9bc2-993e29830b06
+
+[2025-01-04 17:48:45.027] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+    
+[2025-01-04 17:48:45.027] [info]  (UTILITY)                    17:48:45.027 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+    
+
+[2025-01-04 17:48:45.027] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:45.027] [info]  (postgresql)          RUNNING 
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+     undefined
+[2025-01-04 17:48:45.027] [info]  (UTILITY)                    17:48:45.027 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:45.027] [info]  (UTILITY)                    17:48:45.027 (postgresql)          › RUNNING 
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+     null
+
+[2025-01-04 17:48:45.035] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:45.036] [info]  (UTILITY)                    17:48:45.035 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:45.036] [info]  (postgresql)          Acquiring new connection for:  
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+    
+[2025-01-04 17:48:45.036] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:45.036] [info]  (UTILITY)                    17:48:45.036 (postgresql)          › Acquiring new connection for:  
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+    
+
+[2025-01-04 17:48:45.036] [info]  (postgresql)          RUNNING 
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+     undefined
+[2025-01-04 17:48:45.036] [info]  (UTILITY)                    17:48:45.036 (postgresql)          › Pool event: connection acquired
+17:48:45.036 (postgresql)          › RUNNING 
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+     null
+
+[2025-01-04 17:48:45.074] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:45.074] [info]  (UTILITY)                    17:48:45.074 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:47.266] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/query c51e01e3-e771-42a0-9e8d-5f8676c87c4f
+[2025-01-04 17:48:47.266] [info]  (UTILITY)                    17:48:47.266 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/query c51e01e3-e771-42a0-9e8d-5f8676c87c4f
+
+[2025-01-04 17:48:47.270] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  query/execute aa119682-bb64-498d-b175-d5f4cc30ea8a
+[2025-01-04 17:48:47.270] [info]  (UTILITY)                    17:48:47.270 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  query/execute aa119682-bb64-498d-b175-d5f4cc30ea8a
+
+[2025-01-04 17:48:47.270] [info]  (postgresql)          Acquiring new connection for:  SELECT pg_backend_pid() AS pid
+[2025-01-04 17:48:47.270] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:47.270] [info]  (UTILITY)                    17:48:47.270 (postgresql)          › Acquiring new connection for:  SELECT pg_backend_pid() AS pid
+
+[2025-01-04 17:48:47.270] [info]  (postgresql)          RUNNING SELECT pg_backend_pid() AS pid undefined
+[2025-01-04 17:48:47.270] [info]  (UTILITY)                    17:48:47.270 (postgresql)          › Pool event: connection acquired
+17:48:47.270 (postgresql)          › RUNNING SELECT pg_backend_pid() AS pid null
+
+[2025-01-04 17:48:47.274] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:47.274] [info]  (UTILITY)                    17:48:47.274 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:47.274] [info]  (postgresql)          Acquiring new connection for:  ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+
+[2025-01-04 17:48:47.274] [info]  (UTILITY)                    17:48:47.274 (postgresql)          › Acquiring new connection for:  ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+
+
+[2025-01-04 17:48:47.274] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:47.274] [info]  (UTILITY)                    17:48:47.274 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:47.274] [info]  (postgresql)          RUNNING ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+ undefined
+[2025-01-04 17:48:47.275] [info]  (UTILITY)                    17:48:47.274 (postgresql)          › RUNNING ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+ null
+
+[2025-01-04 17:48:51.795] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/query 19af08c0-d510-4bbd-8521-1fce926bc435
+[2025-01-04 17:48:51.795] [info]  (UTILITY)                    17:48:51.795 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/query 19af08c0-d510-4bbd-8521-1fce926bc435
+
+[2025-01-04 17:48:51.799] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  query/execute a64a1590-21c6-4af2-bf2e-c5e570fe724e
+[2025-01-04 17:48:51.799] [info]  (UTILITY)                    17:48:51.799 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  query/execute a64a1590-21c6-4af2-bf2e-c5e570fe724e
+
+[2025-01-04 17:48:51.799] [info]  (postgresql)          Acquiring new connection for:  SELECT pg_backend_pid() AS pid
+[2025-01-04 17:48:51.799] [info]  (UTILITY)                    17:48:51.799 (postgresql)          › Acquiring new connection for:  SELECT pg_backend_pid() AS pid
+
+[2025-01-04 17:48:51.801] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:51.801] [info]  (postgresql)          RUNNING SELECT pg_backend_pid() AS pid undefined
+[2025-01-04 17:48:51.801] [info]  (UTILITY)                    17:48:51.801 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:51.802] [info]  (UTILITY)                    17:48:51.801 (postgresql)          › RUNNING SELECT pg_backend_pid() AS pid null
+
+[2025-01-04 17:48:51.802] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:51.802] [info]  (UTILITY)                    17:48:51.802 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:51.802] [info]  (postgresql)          Acquiring new connection for:  ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+
+[2025-01-04 17:48:51.802] [info]  (UTILITY)                    17:48:51.802 (postgresql)          › Acquiring new connection for:  ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+
+
+[2025-01-04 17:48:51.802] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:48:51.802] [info]  (UTILITY)                    17:48:51.802 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:48:51.802] [info]  (postgresql)          RUNNING ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+ undefined
+[2025-01-04 17:48:51.803] [info]  (UTILITY)                    17:48:51.802 (postgresql)          › RUNNING ALTER DATABASE task_managment_db RENAME TO task_management_db;
+
+
+
+
+
+
+
+
+
+ null
+
+[2025-01-04 17:48:52.278] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:48:52.278] [error] (UtilityProcess)      HANDLER: ERROR error: database "task_managment_db" is being accessed by other users
+    at Parser2.parseErrorMessage (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55535:99)
+    at Parser2.handlePacket (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55376:25)
+    at Parser2.parse (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55300:34)
+    at Socket.<anonymous> (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55576:46)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+[2025-01-04 17:48:52.278] [info]  (UTILITY)                    17:48:52.278 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:48:52.278] [error] (UTILITY)                    17:48:52.278 (UtilityProcess)      › HANDLER: ERROR error: database "task_managment_db" is being accessed by other users
+    at Parser2.parseErrorMessage (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55535:99)
+    at Parser2.handlePacket (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55376:25)
+    at Parser2.parse (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55300:34)
+    at Socket.<anonymous> (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55576:46)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+
+[2025-01-04 17:48:52.278] [error] (renderer/utilityconnection) GOT ERROR BACK FOR REQUEST ID:  aa119682-bb64-498d-b175-d5f4cc30ea8a
+[2025-01-04 17:48:52.278] [error] (query-editor)               error: database "task_managment_db" is being accessed by other users
+    at Parser2.parseErrorMessage (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55535:99)
+    at Parser2.handlePacket (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55376:25)
+    at Parser2.parse (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55300:34)
+    at Socket.<anonymous> (/usr/lib/beekeeper-studio/app.asar/dist/utility.js:55576:46)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+[2025-01-04 17:48:55.864] [info]  (UtilityProcess)      REMOVING STATE FOR:  40a95620-a1a1-4ca3-83a9-f4ac6ddb43b2
+[2025-01-04 17:48:55.864] [info]  (UTILITY)                    17:48:55.864 (UtilityProcess)      › REMOVING STATE FOR:  40a95620-a1a1-4ca3-83a9-f4ac6ddb43b2
+
+[2025-01-04 17:50:03.989] [info]                           initializing background
+[2025-01-04 17:50:04.750] [info]  (UTILITY)                17:50:04.746 (utilityPlatformInfo) › {
+  isWindows: false,
+  isMac: false,
+  isArm: false,
+  oracleSupported: true,
+  parsedArgs: { _: [] },
+  isLinux: true,
+  sessionType: 'wayland',
+  isWayland: false,
+  isPortable: false,
+  isDevelopment: false,
+  isAppImage: false,
+  resourcesPath: '/usr/lib/beekeeper-studio',
+  env: { development: false, test: false, production: true },
+  debugEnabled: false,
+  platform: 'linux',
+  darkMode: false,
+  userDirectory: '/home/craacky/.config/beekeeper-studio',
+  downloadsDirectory: '/home/craacky/Downloads',
+  homeDirectory: '/home/craacky',
+  testMode: false,
+  appDbPath: '/home/craacky/.config/beekeeper-studio/app.db',
+  updatesDisabled: true,
+  appVersion: '5.0.9',
+  parsedAppVersion: { major: 5, minor: 0, patch: 9, channel: 'stable' },
+  cloudUrl: 'https://app.beekeeperstudio.io',
+  locale: ''
+}
+
+[2025-01-04 17:50:04.746] [info]  (utilityPlatformInfo) {
+  isWindows: false,
+  isMac: false,
+  isArm: false,
+  oracleSupported: true,
+  parsedArgs: { _: [] },
+  isLinux: true,
+  sessionType: 'wayland',
+  isWayland: false,
+  isPortable: false,
+  isDevelopment: false,
+  isAppImage: false,
+  resourcesPath: '/usr/lib/beekeeper-studio',
+  env: { development: false, test: false, production: true },
+  debugEnabled: false,
+  platform: 'linux',
+  darkMode: false,
+  userDirectory: '/home/craacky/.config/beekeeper-studio',
+  downloadsDirectory: '/home/craacky/Downloads',
+  homeDirectory: '/home/craacky',
+  testMode: false,
+  appDbPath: '/home/craacky/.config/beekeeper-studio/app.db',
+  updatesDisabled: true,
+  appVersion: '5.0.9',
+  parsedAppVersion: { major: 5, minor: 0, patch: 9, channel: 'stable' },
+  cloudUrl: 'https://app.beekeeperstudio.io',
+  locale: ''
+}
+[2025-01-04 17:50:05.204] [info]                           window created!!!
+[2025-01-04 17:50:05.730] [info]  (UtilityProcess)      RECEIVED PORT:  {
+  _events: {},
+  _eventsCount: 0,
+  _internalPort: {
+    postMessage: '[function] function postMessage() { [native code] }',
+    start: '[function] function start() { [native code] }',
+    close: '[function] function close() { [native code] }',
+    emit: '[function] (e,t)=>{"message"===e&&(t={...t,ports:t.ports.map((e=>new MessagePortMain(e)))}),this.emit(e,t)}'
+  }
+}
+[2025-01-04 17:50:05.730] [info]  (UTILITY)                    17:50:05.730 (UtilityProcess)      › RECEIVED PORT:  {
+  _events: {},
+  _eventsCount: 0,
+  _internalPort: {
+    postMessage: '[function] function postMessage() { [native code] }',
+    start: '[function] function start() { [native code] }',
+    close: '[function] function close() { [native code] }',
+    emit: '[function] (e,t)=>{"message"===e&&(t={...t,ports:t.ports.map((e=>new MessagePortMain(e)))}),this.emit(e,t)}'
+  }
+}
+
+[2025-01-04 17:50:05.734] [info]  (preload.ts)                 Received port in renderer with sId:  21074055-b4f9-4cb7-9bb1-12e96446d527
+[2025-01-04 17:50:05.736] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/getStatus cb5d4510-07bb-4398-8295-8754dbf12c6f
+[2025-01-04 17:50:05.735] [info]  (main.ts)                    GOT PORT:  {} 21074055-b4f9-4cb7-9bb1-12e96446d527
+[2025-01-04 17:50:05.736] [info]  (UTILITY)                    17:50:05.736 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/getStatus cb5d4510-07bb-4398-8295-8754dbf12c6f
+
+[2025-01-04 17:50:05.737] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/find c3b33853-dbc7-401f-8ebb-c7d611227dae
+[2025-01-04 17:50:05.737] [info]  (UTILITY)                    17:50:05.737 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/find c3b33853-dbc7-401f-8ebb-c7d611227dae
+
+[2025-01-04 17:50:05.739] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  license/get f12d0293-ea57-41ef-adba-a633d9fbbcc9
+[2025-01-04 17:50:05.739] [info]  (UTILITY)                    17:50:05.739 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  license/get f12d0293-ea57-41ef-adba-a633d9fbbcc9
+
+[2025-01-04 17:50:05.740] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  enum/init e9286b06-546b-45c3-a1be-dc5ef79e17a7
+[2025-01-04 17:50:05.740] [info]  (UTILITY)                    17:50:05.740 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  enum/init e9286b06-546b-45c3-a1be-dc5ef79e17a7
+
+[2025-01-04 17:50:05.741] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  enum/load c3bf8f7e-4a58-4693-b261-945f3647ce30
+[2025-01-04 17:50:05.741] [info]  (UTILITY)                    17:50:05.741 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  enum/load c3bf8f7e-4a58-4693-b261-945f3647ce30
+
+[2025-01-04 17:50:05.757] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/query/find bc5c1bbd-7826-48c3-9d29-28c5aa1c4752
+[2025-01-04 17:50:05.757] [info]  (UTILITY)                    17:50:05.757 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/query/find bc5c1bbd-7826-48c3-9d29-28c5aa1c4752
+
+[2025-01-04 17:50:05.758] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/saved/find a4d04584-d81a-4b9d-bc42-419d3c8d8d00
+[2025-01-04 17:50:05.758] [info]  (UTILITY)                    17:50:05.758 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/saved/find a4d04584-d81a-4b9d-bc42-419d3c8d8d00
+
+[2025-01-04 17:50:05.759] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/usedQuery/find ad64eddd-93ad-4dc3-b9a3-afe474ba5f0c
+[2025-01-04 17:50:05.759] [info]  (UTILITY)                    17:50:05.759 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/usedQuery/find ad64eddd-93ad-4dc3-b9a3-afe474ba5f0c
+
+[2025-01-04 17:50:05.760] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/used/find b15277ae-7c2d-4859-b8fc-ce980e342ef4
+[2025-01-04 17:50:05.760] [info]  (UTILITY)                    17:50:05.760 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/used/find b15277ae-7c2d-4859-b8fc-ce980e342ef4
+
+[2025-01-04 17:50:05.789] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/credential/find 9b7c40f3-2e5b-49c6-afc4-226a0bd97c30
+[2025-01-04 17:50:05.789] [info]  (UTILITY)                    17:50:05.789 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/credential/find 9b7c40f3-2e5b-49c6-afc4-226a0bd97c30
+
+[2025-01-04 17:50:05.848] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 7c76a158-f5f1-4699-9cc3-ffc2283783d4
+[2025-01-04 17:50:05.848] [info]  (UTILITY)                    17:50:05.848 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 7c76a158-f5f1-4699-9cc3-ffc2283783d4
+
+[2025-01-04 17:50:05.849] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get af09651e-218f-4064-8909-8cb3a4977a10
+[2025-01-04 17:50:05.849] [info]  (UTILITY)                    17:50:05.849 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get af09651e-218f-4064-8909-8cb3a4977a10
+
+[2025-01-04 17:50:05.849] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new 0b50cae2-ede9-40c8-8f52-25d6be085ac9
+[2025-01-04 17:50:05.849] [info]  (UTILITY)                    17:50:05.849 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new 0b50cae2-ede9-40c8-8f52-25d6be085ac9
+
+[2025-01-04 17:50:05.849] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/pinconn/find 98346e2f-c9cf-402b-b451-177b76311a9e
+[2025-01-04 17:50:05.849] [info]  (UTILITY)                    17:50:05.849 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/pinconn/find 98346e2f-c9cf-402b-b451-177b76311a9e
+
+[2025-01-04 17:50:05.900] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new e077bfec-e178-4fbb-951b-3af2e16a210f
+[2025-01-04 17:50:05.901] [info]  (UTILITY)                    17:50:05.900 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new e077bfec-e178-4fbb-951b-3af2e16a210f
+
+[2025-01-04 17:50:05.903] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/pinconn/save b5e00840-0007-4efc-b9e7-6f8953fa4a22
+[2025-01-04 17:50:05.903] [info]  (UTILITY)                    17:50:05.903 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/pinconn/save b5e00840-0007-4efc-b9e7-6f8953fa4a22
+
+[2025-01-04 17:50:05.909] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/credential/find f0f3f716-3e13-46f5-aa29-31c3cc13a9fc
+[2025-01-04 17:50:05.909] [info]  (UTILITY)                    17:50:05.909 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/credential/find f0f3f716-3e13-46f5-aa29-31c3cc13a9fc
+
+[2025-01-04 17:50:07.727] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new 1f358c86-2915-4635-b436-2b688b745571
+[2025-01-04 17:50:07.728] [info]  (UTILITY)                    17:50:07.727 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/saved/new 1f358c86-2915-4635-b436-2b688b745571
+
+[2025-01-04 17:50:13.981] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/test 51463090-a55f-40d7-8b6d-bfcc3bd3297e
+[2025-01-04 17:50:13.981] [info]  (UTILITY)                    17:50:13.981 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/test 51463090-a55f-40d7-8b6d-bfcc3bd3297e
+
+[2025-01-04 17:50:13.993] [debug] (postgresql)          connected
+[2025-01-04 17:50:13.993] [info]  (UTILITY)                    17:50:13.993 (postgresql)          › connected
+
+[2025-01-04 17:50:13.995] [info]  (postgresql)          Acquiring new connection for:  SELECT CURRENT_SCHEMA() AS schema
+[2025-01-04 17:50:13.995] [info]  (UTILITY)                    17:50:13.995 (postgresql)          › Acquiring new connection for:  SELECT CURRENT_SCHEMA() AS schema
+
+[2025-01-04 17:50:13.995] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:13.995] [info]  (UTILITY)                    17:50:13.995 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:13.995] [info]  (postgresql)          RUNNING SELECT CURRENT_SCHEMA() AS schema undefined
+[2025-01-04 17:50:13.995] [info]  (UTILITY)                    17:50:13.995 (postgresql)          › RUNNING SELECT CURRENT_SCHEMA() AS schema null
+
+[2025-01-04 17:50:13.996] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:13.996] [info]  (UTILITY)                    17:50:13.996 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:13.996] [info]  (postgresql)          Acquiring new connection for:  select version()
+[2025-01-04 17:50:13.997] [info]  (UTILITY)                    17:50:13.996 (postgresql)          › Acquiring new connection for:  select version()
+
+[2025-01-04 17:50:13.997] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:13.997] [info]  (postgresql)          RUNNING select version() undefined
+[2025-01-04 17:50:13.997] [info]  (UTILITY)                    17:50:13.997 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:13.997] [info]  (UTILITY)                    17:50:13.997 (postgresql)          › RUNNING select version() null
+
+[2025-01-04 17:50:13.997] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:13.997] [info]  (UTILITY)                    17:50:13.997 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:13.998] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid);
+[2025-01-04 17:50:13.998] [info]  (UTILITY)                    17:50:13.998 (postgresql)          › Acquiring new connection for:  
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid);
+
+[2025-01-04 17:50:13.998] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:13.998] [info]  (postgresql)          RUNNING 
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid); undefined
+[2025-01-04 17:50:13.998] [info]  (UTILITY)                    17:50:13.998 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:13.998] [info]  (UTILITY)                    17:50:13.998 (postgresql)          › RUNNING 
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid); null
+
+[2025-01-04 17:50:14.000] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:14.000] [info]  (UTILITY)                    17:50:14.000 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.015] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/create 8ea6244b-f3bc-46fe-82b6-ac9a1e9505a1
+[2025-01-04 17:50:15.016] [info]  (UTILITY)                    17:50:15.015 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/create 8ea6244b-f3bc-46fe-82b6-ac9a1e9505a1
+
+[2025-01-04 17:50:15.019] [debug] (postgresql)          connected
+[2025-01-04 17:50:15.019] [info]  (UTILITY)                    17:50:15.019 (postgresql)          › connected
+
+[2025-01-04 17:50:15.019] [info]  (postgresql)          Acquiring new connection for:  SELECT CURRENT_SCHEMA() AS schema
+[2025-01-04 17:50:15.019] [info]  (UTILITY)                    17:50:15.019 (postgresql)          › Acquiring new connection for:  SELECT CURRENT_SCHEMA() AS schema
+
+[2025-01-04 17:50:15.019] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.020] [info]  (UTILITY)                    17:50:15.019 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.020] [info]  (postgresql)          RUNNING SELECT CURRENT_SCHEMA() AS schema undefined
+[2025-01-04 17:50:15.020] [info]  (UTILITY)                    17:50:15.020 (postgresql)          › RUNNING SELECT CURRENT_SCHEMA() AS schema null
+
+[2025-01-04 17:50:15.020] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.020] [info]  (UTILITY)                    17:50:15.020 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.020] [info]  (postgresql)          Acquiring new connection for:  select version()
+[2025-01-04 17:50:15.021] [info]  (UTILITY)                    17:50:15.020 (postgresql)          › Acquiring new connection for:  select version()
+
+[2025-01-04 17:50:15.021] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.021] [info]  (postgresql)          RUNNING select version() undefined
+[2025-01-04 17:50:15.021] [info]  (UTILITY)                    17:50:15.021 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.021] [info]  (UTILITY)                    17:50:15.021 (postgresql)          › RUNNING select version() null
+
+[2025-01-04 17:50:15.021] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.021] [info]  (UTILITY)                    17:50:15.021 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.022] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid);
+[2025-01-04 17:50:15.022] [info]  (UTILITY)                    17:50:15.022 (postgresql)          › Acquiring new connection for:  
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid);
+
+[2025-01-04 17:50:15.022] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.022] [info]  (postgresql)          RUNNING 
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid); undefined
+[2025-01-04 17:50:15.022] [info]  (UTILITY)                    17:50:15.022 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.022] [info]  (UTILITY)                    17:50:15.022 (postgresql)          › RUNNING 
+      SELECT      n.nspname as schema, t.typname as typename, t.oid::integer as typeid
+      FROM        pg_type t
+      LEFT JOIN   pg_catalog.pg_namespace n ON n.oid = t.typnamespace
+      WHERE       (t.typrelid = 0 OR (SELECT c.relkind = 'c' FROM pg_catalog.pg_class c WHERE c.oid = t.typrelid))
+      AND     n.nspname NOT IN ('pg_catalog', 'information_schema')
+     AND     NOT EXISTS(SELECT 1 FROM pg_catalog.pg_type el WHERE el.oid = t.typelem AND el.typarray = t.oid); null
+
+[2025-01-04 17:50:15.024] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.024] [info]  (UTILITY)                    17:50:15.024 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.025] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/defaultSchema a4736416-f892-4416-ba78-1dad07f46e4a
+[2025-01-04 17:50:15.025] [info]  (UTILITY)                    17:50:15.025 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/defaultSchema a4736416-f892-4416-ba78-1dad07f46e4a
+
+[2025-01-04 17:50:15.026] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/supportedFeatures d605ad4c-6dce-4f53-bfe4-11582b4a60f5
+[2025-01-04 17:50:15.026] [info]  (UTILITY)                    17:50:15.026 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/supportedFeatures d605ad4c-6dce-4f53-bfe4-11582b4a60f5
+
+[2025-01-04 17:50:15.026] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/defaultSchema 20985fcf-d648-4c7a-b946-db3cc054da58
+[2025-01-04 17:50:15.026] [info]  (UTILITY)                    17:50:15.026 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/defaultSchema 20985fcf-d648-4c7a-b946-db3cc054da58
+
+[2025-01-04 17:50:15.027] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/getServerConfig 22a7b13a-ad62-4a27-95be-0e5ef136497b
+[2025-01-04 17:50:15.027] [info]  (UTILITY)                    17:50:15.027 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/getServerConfig 22a7b13a-ad62-4a27-95be-0e5ef136497b
+
+[2025-01-04 17:50:15.029] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listDatabases 04e9b21e-cc1f-4730-aac6-e33c2317edc3
+[2025-01-04 17:50:15.029] [info]  (UTILITY)                    17:50:15.029 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listDatabases 04e9b21e-cc1f-4730-aac6-e33c2317edc3
+
+[2025-01-04 17:50:15.029] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+    
+[2025-01-04 17:50:15.029] [info]  (UTILITY)                    17:50:15.029 (postgresql)          › Acquiring new connection for:  
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+    
+
+[2025-01-04 17:50:15.029] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.029] [info]  (UTILITY)                    17:50:15.029 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.029] [info]  (postgresql)          RUNNING 
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+     [ false ]
+[2025-01-04 17:50:15.030] [info]  (UTILITY)                    17:50:15.029 (postgresql)          › RUNNING 
+      SELECT datname
+      FROM pg_database
+      WHERE datistemplate = $1
+      
+      ORDER BY datname
+     [ false ]
+
+[2025-01-04 17:50:15.030] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.030] [info]  (UTILITY)                    17:50:15.030 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.033] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/pins/find 3fc1511f-985b-4ee8-a16e-d795804cacf8
+[2025-01-04 17:50:15.033] [info]  (UTILITY)                    17:50:15.033 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/pins/find 3fc1511f-985b-4ee8-a16e-d795804cacf8
+
+[2025-01-04 17:50:15.033] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/hiddenEntity/find e0197611-9b31-4618-9fa1-94484cf13b16
+[2025-01-04 17:50:15.033] [info]  (UTILITY)                    17:50:15.033 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/hiddenEntity/find e0197611-9b31-4618-9fa1-94484cf13b16
+
+[2025-01-04 17:50:15.053] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 3f702ba7-d53a-4d15-90c7-c4eb73b58031
+[2025-01-04 17:50:15.054] [info]  (UTILITY)                    17:50:15.053 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get 3f702ba7-d53a-4d15-90c7-c4eb73b58031
+
+[2025-01-04 17:50:15.054] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get d04b810f-ad69-4c94-a8b7-93f3efd9b380
+[2025-01-04 17:50:15.054] [info]  (UTILITY)                    17:50:15.054 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/get d04b810f-ad69-4c94-a8b7-93f3efd9b380
+
+[2025-01-04 17:50:15.057] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/find 7a1b50d8-31e0-4a45-a66a-2557826e7df5
+[2025-01-04 17:50:15.057] [info]  (UTILITY)                    17:50:15.057 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/find 7a1b50d8-31e0-4a45-a66a-2557826e7df5
+
+[2025-01-04 17:50:15.065] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listTables 57ba2531-921b-4b41-a3a2-f2c82a37f3c3
+[2025-01-04 17:50:15.066] [info]  (UTILITY)                    17:50:15.065 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listTables 57ba2531-921b-4b41-a3a2-f2c82a37f3c3
+
+[2025-01-04 17:50:15.066] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+    
+[2025-01-04 17:50:15.066] [info]  (UTILITY)                    17:50:15.066 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+    
+
+[2025-01-04 17:50:15.066] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.067] [info]  (UTILITY)                    17:50:15.066 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.067] [info]  (postgresql)          RUNNING 
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+     undefined
+[2025-01-04 17:50:15.067] [info]  (UTILITY)                    17:50:15.067 (postgresql)          › RUNNING 
+      SELECT
+        t.table_schema as schema,
+        t.table_name as name,
+    
+          pc.relkind as tabletype,
+          parent_pc.relkind as parenttype
+        FROM information_schema.tables AS t
+        JOIN pg_class AS pc
+          ON t.table_name = pc.relname AND quote_ident(t.table_schema) = pc.relnamespace::regnamespace::text
+        LEFT OUTER JOIN pg_inherits AS i
+          ON pc.oid = i.inhrelid
+        LEFT OUTER JOIN pg_class AS parent_pc
+          ON parent_pc.oid = i.inhparent
+        WHERE t.table_type NOT LIKE '%VIEW%'
+      
+      
+      ORDER BY t.table_schema, t.table_name
+     null
+
+[2025-01-04 17:50:15.068] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/hiddenSchema/find 36e20996-08ea-417d-8f5d-4a79ec74ef68
+[2025-01-04 17:50:15.068] [info]  (UTILITY)                    17:50:15.068 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/hiddenSchema/find 36e20996-08ea-417d-8f5d-4a79ec74ef68
+
+[2025-01-04 17:50:15.069] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/set 10823231-da45-4bbd-883c-d393a7e1a75b
+[2025-01-04 17:50:15.069] [info]  (UTILITY)                    17:50:15.069 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/set 10823231-da45-4bbd-883c-d393a7e1a75b
+
+[2025-01-04 17:50:15.071] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/setting/set 634889c2-eef4-4c8d-8661-34b97c72a2c7
+[2025-01-04 17:50:15.071] [info]  (UTILITY)                    17:50:15.071 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/setting/set 634889c2-eef4-4c8d-8661-34b97c72a2c7
+
+[2025-01-04 17:50:15.073] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.073] [info]  (UTILITY)                    17:50:15.073 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.141] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listViews 4d268cb0-72f4-4213-a226-3d69a6e67a94
+[2025-01-04 17:50:15.142] [info]  (UTILITY)                    17:50:15.141 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listViews 4d268cb0-72f4-4213-a226-3d69a6e67a94
+
+[2025-01-04 17:50:15.142] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+    
+[2025-01-04 17:50:15.142] [info]  (UTILITY)                    17:50:15.142 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+    
+
+[2025-01-04 17:50:15.142] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.142] [info]  (UTILITY)                    17:50:15.142 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.142] [info]  (postgresql)          RUNNING 
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+     undefined
+[2025-01-04 17:50:15.142] [info]  (UTILITY)                    17:50:15.142 (postgresql)          › RUNNING 
+      SELECT
+        table_schema as schema,
+        table_name as name
+      FROM information_schema.views
+      
+      ORDER BY table_schema, table_name
+     null
+
+[2025-01-04 17:50:15.144] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.144] [info]  (UTILITY)                    17:50:15.144 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.145] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listMaterializedViews ab3a5d40-1eb3-4b56-b459-bfac1fb306f9
+[2025-01-04 17:50:15.145] [info]  (UTILITY)                    17:50:15.145 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listMaterializedViews ab3a5d40-1eb3-4b56-b459-bfac1fb306f9
+
+[2025-01-04 17:50:15.146] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+    
+[2025-01-04 17:50:15.146] [info]  (UTILITY)                    17:50:15.146 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+    
+
+[2025-01-04 17:50:15.146] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.146] [info]  (UTILITY)                    17:50:15.146 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.146] [info]  (postgresql)          RUNNING 
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+     undefined
+[2025-01-04 17:50:15.146] [info]  (UTILITY)                    17:50:15.146 (postgresql)          › RUNNING 
+      SELECT
+        schemaname as schema,
+        matviewname as name
+      FROM pg_matviews
+      
+      order by schemaname, matviewname;
+     null
+
+[2025-01-04 17:50:15.147] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.147] [info]  (UTILITY)                    17:50:15.147 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.160] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  conn/listRoutines e9874e4e-2269-4d17-b854-c558a92e6c79
+[2025-01-04 17:50:15.160] [info]  (UTILITY)                    17:50:15.160 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  conn/listRoutines e9874e4e-2269-4d17-b854-c558a92e6c79
+
+[2025-01-04 17:50:15.160] [info]  (postgresql)          Acquiring new connection for:  
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+    
+[2025-01-04 17:50:15.161] [info]  (UTILITY)                    17:50:15.160 (postgresql)          › Acquiring new connection for:  
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+    
+
+[2025-01-04 17:50:15.161] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.161] [info]  (UTILITY)                    17:50:15.161 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.161] [info]  (postgresql)          RUNNING 
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+     undefined
+[2025-01-04 17:50:15.161] [info]  (UTILITY)                    17:50:15.161 (postgresql)          › RUNNING 
+      SELECT
+        r.specific_name as id,
+        r.routine_schema as routine_schema,
+        r.routine_name as name,
+        r.routine_type as routine_type,
+        r.data_type as data_type
+      FROM INFORMATION_SCHEMA.ROUTINES r
+      where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+      ORDER BY routine_schema, routine_name
+     null
+
+[2025-01-04 17:50:15.170] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.170] [info]  (UTILITY)                    17:50:15.170 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.171] [info]  (postgresql)          Acquiring new connection for:  
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+    
+[2025-01-04 17:50:15.171] [info]  (UTILITY)                    17:50:15.171 (postgresql)          › Acquiring new connection for:  
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+    
+
+[2025-01-04 17:50:15.171] [debug] (postgresql)          Pool event: connection acquired
+[2025-01-04 17:50:15.171] [info]  (postgresql)          RUNNING 
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+     undefined
+[2025-01-04 17:50:15.171] [info]  (UTILITY)                    17:50:15.171 (postgresql)          › Pool event: connection acquired
+
+[2025-01-04 17:50:15.171] [info]  (UTILITY)                    17:50:15.171 (postgresql)          › RUNNING 
+      select
+          r.routine_schema as routine_schema,
+          r.specific_name as specific_name,
+          p.parameter_name as parameter_name,
+          p.character_maximum_length as char_length,
+          p.data_type as data_type
+    from information_schema.routines r
+    left join information_schema.parameters p
+              on p.specific_schema = r.routine_schema
+              and p.specific_name = r.specific_name
+    where r.routine_schema not in ('sys', 'information_schema',
+                                  'pg_catalog', 'performance_schema')
+      
+
+        AND p.parameter_mode = 'IN'
+    order by r.routine_schema,
+            r.specific_name,
+            p.ordinal_position;
+
+     null
+
+[2025-01-04 17:50:15.209] [debug] (postgresql)          Pool event: connection released
+[2025-01-04 17:50:15.209] [info]  (UTILITY)                    17:50:15.209 (postgresql)          › Pool event: connection released
+
+[2025-01-04 17:50:15.217] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/used/save 0435ab61-c058-4ffa-835a-057d22ebb0c3
+[2025-01-04 17:50:15.217] [info]  (UTILITY)                    17:50:15.217 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/used/save 0435ab61-c058-4ffa-835a-057d22ebb0c3
+
+[2025-01-04 17:50:15.218] [info]  (Appdb handlers)      Saving used:  {
+  id: 8,
+  createdAt: '2025-01-04T14:46:37.834Z',
+  updatedAt: '2025-01-04T14:50:15.217Z',
+  _connectionType: 'postgresql',
+  host: 'localhost',
+  _port: 5432,
+  _socketPath: '/var/run/postgresql',
+  socketPathEnabled: false,
+  username: 'craacky',
+  domain: null,
+  defaultDatabase: 'task_managment_db',
+  uri: null,
+  uniqueHash: 'DEPRECATED',
+  sshEnabled: false,
+  sshHost: null,
+  sshPort: 22,
+  sshKeyfile: null,
+  sshUsername: null,
+  sshBastionHost: null,
+  sshKeepaliveInterval: 60,
+  ssl: false,
+  sslCaFile: null,
+  sslCertFile: null,
+  sslKeyFile: null,
+  sslRejectUnauthorized: true,
+  readOnlyMode: false,
+  options: {},
+  redshiftOptions: {},
+  cassandraOptions: {},
+  bigQueryOptions: {},
+  azureAuthOptions: {},
+  authId: null,
+  libsqlOptions: { mode: 'url' },
+  trustServerCertificate: false,
+  serviceName: null,
+  connectionId: 2,
+  workspaceId: -1,
+  version: 1
+}
+[2025-01-04 17:50:15.218] [info]  (UTILITY)                    17:50:15.218 (Appdb handlers)      › Saving used:  {
+  id: 8,
+  createdAt: '2025-01-04T14:46:37.834Z',
+  updatedAt: '2025-01-04T14:50:15.217Z',
+  _connectionType: 'postgresql',
+  host: 'localhost',
+  _port: 5432,
+  _socketPath: '/var/run/postgresql',
+  socketPathEnabled: false,
+  username: 'craacky',
+  domain: null,
+  defaultDatabase: 'task_managment_db',
+  uri: null,
+  uniqueHash: 'DEPRECATED',
+  sshEnabled: false,
+  sshHost: null,
+  sshPort: 22,
+  sshKeyfile: null,
+  sshUsername: null,
+  sshBastionHost: null,
+  sshKeepaliveInterval: 60,
+  ssl: false,
+  sslCaFile: null,
+  sslCertFile: null,
+  sslKeyFile: null,
+  sslRejectUnauthorized: true,
+  readOnlyMode: false,
+  options: {},
+  redshiftOptions: {},
+  cassandraOptions: {},
+  bigQueryOptions: {},
+  azureAuthOptions: {},
+  authId: null,
+  libsqlOptions: { mode: 'url' },
+  trustServerCertificate: false,
+  serviceName: null,
+  connectionId: 2,
+  workspaceId: -1,
+  version: 1
+}
+
+[2025-01-04 17:50:15.571] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 81301bab-290b-4225-9141-332ec33c64eb
+[2025-01-04 17:50:15.571] [info]  (UTILITY)                    17:50:15.571 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save 81301bab-290b-4225-9141-332ec33c64eb
+
+[2025-01-04 17:50:16.110] [info]  (UtilityProcess)      RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save ad81827a-2fba-49fc-8425-cd216fec7311
+[2025-01-04 17:50:16.110] [info]  (UTILITY)                    17:50:16.110 (UtilityProcess)      › RECEIVED REQUEST FOR NAME, ID:  appdb/tabs/save ad81827a-2fba-49fc-8425-cd216fec7311
+
+[2025-01-04 17:50:20.999] [info]  (UtilityProcess)      REMOVING STATE FOR:  21074055-b4f9-4cb7-9bb1-12e96446d527
+[2025-01-04 17:50:20.999] [info]  (UTILITY)                    17:50:20.999 (UtilityProcess)      › REMOVING STATE FOR:  21074055-b4f9-4cb7-9bb1-12e96446d527
+

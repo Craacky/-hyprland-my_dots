@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Projects/java_practice" value="true" />
+        <entry key="$USER_HOME$/Projects/task_managment" value="true" />
+        <entry key="$USER_HOME$/Projects/task_managment_system" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

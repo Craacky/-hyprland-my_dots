@@ -1,0 +1,143 @@
+@import "../waybar/themes/blood_moon.css";
+
+* {
+  min-height: 0px;
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 13px;
+}
+
+window#waybar {
+  color: @white2;
+  background: @bg;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  border-radius: 5px;
+  /* border: 1px solid @white2; */
+}
+
+window#waybar.empty {
+  opacity: 1;
+}
+
+.modules-left,
+.modules-right,
+.modules-center {
+  padding: 5px 5px;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: @fg;
+  border-radius: 5px;
+}
+
+#workspaces {
+  font-weight: 600;
+  margin-right: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background: @bg;
+}
+
+#workspaces button {
+  color: @white2;
+  font-weight: 600;
+  margin-right: 2px;
+  padding: 0px 5px;
+}
+
+#workspaces button.urgent {
+  color: @red1;
+}
+
+#workspaces button.empty {
+  color: @black2;
+}
+
+#workspaces button.active {
+  color: @green1;
+  border-bottom: 1px solid @green1;
+  border-top: 1px solid @green1;
+}
+
+#workspaces button.focused {
+  color: @yellow1;
+}
+
+#cpu,
+#temperature,
+#memory,
+#language,
+#mpris,
+#custom-notifications,
+#custom-cava,
+#pulseaudio,
+#window,
+#disk {
+  color: @white2;
+  font-weight: 600;
+  min-width: 65px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+/* #battery {
+  color: @crust;
+  font-weight: 600;
+  margin-right: 10px;
+  padding: 6px 15px;
+  border-radius: 90px;
+  background: @green;
+}
+
+#backlight {
+  color: @crust;
+  font-weight: 600;
+  margin-right: 10px;
+  padding: 6px 15px;
+  border-radius: 90px;
+  background: @yellow;
+}
+
+#network {
+  color: @crust;
+  font-weight: 600;
+  margin-right: 10px;
+  padding: 6px 15px;
+  border-radius: 90px;
+  background: @teal;
+}
+
+#network.disconnected {
+  background-color: @red;
+} */
+
+#tray {
+  color: @white2;
+  font-weight: 600;
+  padding: 5px 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+#clock {
+  color: @white2;
+  font-weight: 600;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#custom-sepp {
+  color: @black2;
+  font-size: 22px;
+  padding-left: 5px;
+  padding-right: 5px;
+}

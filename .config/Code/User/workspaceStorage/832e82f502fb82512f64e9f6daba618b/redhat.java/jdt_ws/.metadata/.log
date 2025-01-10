@@ -1,0 +1,274 @@
+!SESSION 2024-12-25 09:35:00.414 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --pipe=/run/user/1000/lsp-a9023d849242c74e80a554386b8a0bec.sock
+Command-line arguments:  -data /home/craacky/.config/Code/User/workspaceStorage/832e82f502fb82512f64e9f6daba618b/redhat.java/jdt_ws --pipe=/run/user/1000/lsp-a9023d849242c74e80a554386b8a0bec.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.244
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.424
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.453
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.455
+!MESSAGE Initializing Java Language Server 1.43.0.202412190401
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:02.456
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.400
+!MESSAGE ProjectRegistryRefreshJob finished 944ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.480
+!MESSAGE Started org.eclipse.buildship.core 79ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.587
+!MESSAGE Setting /usr/lib/jvm/java-23-openjdk as 'JavaSE-23' environment (id:1735108503563)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.590
+!MESSAGE Setting java.home /usr/lib/jvm/java-23-openjdk as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.594
+!MESSAGE Default VM Install changed from  1735108503545-/home/craacky/.vscode/extensions/redhat.java-1.38.0-linux-x64/jre/17.0.13-linux-x86_64 to 1735108503563-/usr/lib/jvm/java-23-openjdk
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.601
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.609
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-gradle-3.16.4/server/com.microsoft.gradle.bs.importer-0.5.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.614
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-debug-0.58.1/server/com.microsoft.java.debug.plugin-0.53.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.618
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1/server/com.microsoft.jdtls.ext.core-0.24.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.622
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-jupiter-api_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.626
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-jupiter-engine_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.628
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-jupiter-migrationsupport_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.638
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-jupiter-params_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.642
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-commons_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.645
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-engine_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.647
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-launcher_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.650
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-runner_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.653
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-suite-api_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.656
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-suite-commons_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.659
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-suite-engine_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.662
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-vintage-engine_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.664
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.apiguardian.api_1.1.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.666
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.eclipse.jdt.junit4.runtime_1.3.100.v20231214-1952.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.669
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.eclipse.jdt.junit5.runtime_1.1.300.v20231214-1952.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.671
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.opentest4j_1.3.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.674
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.jacoco.core_0.8.12.202403310830.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.677
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/com.microsoft.java.test.plugin-0.43.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.680
+!MESSAGE Installed reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-maven-0.44.0/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.39.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.713
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-gradle-3.16.4/server/com.microsoft.gradle.bs.importer-0.5.3.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.718
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-suite-api_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.721
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.opentest4j_1.3.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.725
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.eclipse.jdt.junit4.runtime_1.3.100.v20231214-1952.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.768
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/com.microsoft.java.test.plugin-0.43.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.768
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.eclipse.jdt.junit5.runtime_1.1.300.v20231214-1952.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.769
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-launcher_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.769
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.apiguardian.api_1.1.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.790
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-maven-0.44.0/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.39.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.791
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-jupiter-params_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.791
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-engine_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.792
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-suite-engine_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.792
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-commons_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.793
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-jupiter-migrationsupport_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.793
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-vintage-engine_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.794
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-jupiter-engine_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.794
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/org.jacoco.core_0.8.12.202403310830.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.795
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-jupiter-api_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.795
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-runner_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.820
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-debug-0.58.1/server/com.microsoft.java.debug.plugin-0.53.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.839
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1/server/com.microsoft.jdtls.ext.core-0.24.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.840
+!MESSAGE Started reference:file:/home/craacky/.vscode/extensions/vscjava.vscode-java-test-0.43.0/server/junit-platform-suite-commons_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.848
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.848
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.851
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.851
+!MESSAGE Non-Static Commands: [java.gradle.delegateTest]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.852
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.852
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.852
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.853
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.853
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.853
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.853
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.854
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.checkImportStatus, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.886
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.905
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:03.948
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:35:11.871
+!MESSAGE No previous Gradle project at /home/craacky/Downloads/Telegram Desktop/MiniShop, it must be synchronized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:35.555
+!MESSAGE Workspace initialized in 91672ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:35.572
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:35.718
+!MESSAGE Updated app in 96 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.101
+!MESSAGE Clearing problems for /CartActivity.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.127
+!MESSAGE Clearing problems for /CartAdapter.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.137
+!MESSAGE Clearing problems for /CustomAdapter.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.148
+!MESSAGE Clearing problems for /Item.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:36:36.156
+!MESSAGE Clearing problems for /MainActivity.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:12.645
+!MESSAGE Updated MiniShop in 37024 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:12.669
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:12.669
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:12.671
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:12.679
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:12.708
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:47.745
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:47.777
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:47.783
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-25 09:37:47.791
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

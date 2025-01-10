@@ -1,0 +1,1 @@
+/home/craacky/.jetbrains.vmoptions.sh

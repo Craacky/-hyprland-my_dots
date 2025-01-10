@@ -1,0 +1,13 @@
+2025-01-08 01:29:43.212 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-08 01:29:43.212 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-08 01:29:43.212 [info] Experiment 'pythonTestAdapter' is active
+2025-01-08 01:29:43.212 [info] Native locator: Refresh started
+2025-01-08 01:29:43.214 [info] Poetry environment manager found at: /sbin/poetry
+2025-01-08 01:29:43.242 [info] Native locator: Refresh started
+2025-01-08 01:29:43.243 [info] Native locator: Refresh started
+2025-01-08 01:29:43.253 [info] Pyenv environment manager found at: /sbin/pyenv
+2025-01-08 01:29:43.690 [info] Native locator: Refresh finished in 503 ms
+2025-01-08 01:29:43.699 [info] > /sbin/pyenv which python
+2025-01-08 01:29:43.699 [info] cwd: .
+2025-01-08 01:29:43.772 [info] Python interpreter path: /bin/python
+2025-01-08 01:29:53.876 [info] Starting Pylance language server.

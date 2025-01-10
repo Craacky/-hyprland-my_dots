@@ -1,0 +1,1 @@
+{"ref":"48217ee4-58c5-4eab-9627-c03b8da9630d","syncData":{"version":2,"machineId":"45e9494d-ed70-4a69-875c-95241858486a","content":"{\"windows\":\"[]\",\"linux\":\"// Place your key bindings in this file to override the defaultsauto[]\\n[\\n    {\\n        \\\"key\\\": \\\"shift+alt+f\\\",\\n        \\\"command\\\": \\\"prettier.forceFormatDocument\\\"\\n    }\\n]\"}"}}

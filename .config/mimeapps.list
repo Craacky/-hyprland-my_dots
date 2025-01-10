@@ -1,0 +1,8 @@
+[Default Applications]
+image/png=feh.desktop
+application/pdf=zen-beta.desktop
+x-scheme-handler/postman=Postman.desktop
+
+[Added Associations]
+image/png=org.inkscape.Inkscape.desktop;feh.desktop;
+application/pdf=zen-beta.desktop;

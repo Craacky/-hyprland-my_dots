@@ -1,0 +1,116 @@
+@import "../waybar/themes/blood_moon.css";
+
+* {
+  min-height: 0px;
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 13px;
+}
+
+window#waybar {
+  color: @white2;
+  background: @bg;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  border-radius: 5px;
+  /* border: 1px solid @white2; */
+}
+
+window#waybar.empty {
+  opacity: 1;
+}
+
+.modules-left,
+.modules-right,
+.modules-center {
+  padding: 5px 5px;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: @fg;
+  border-radius: 5px;
+}
+
+#workspaces {
+  font-weight: 600;
+  margin-right: 10px;
+  padding: 5px 5px;
+  border-radius: 0px;
+  background: @bg;
+}
+
+#workspaces button {
+  color: @white2;
+  font-weight: 600;
+  margin-right: 5px;
+  padding: 0px 5px;
+  border-radius: 0px;
+  /* border-bottom: 0.5px solid @white2; */
+}
+
+#workspaces button.urgent {
+  color: @red1;
+  /* border-bottom: 0.5px solid @red1; */
+}
+
+#workspaces button.empty {
+  color: @black2;
+  /* border-bottom: 0.5px solid @black2; */
+}
+
+#workspaces button.active {
+  color: @green1;
+  /* border-bottom: 0.5px solid @green1; */
+}
+
+#workspaces button.focused {
+  color: @yellow1;
+  /* border-bottom: 0.5px solid @yellow1; */
+}
+
+#cpu,
+#temperature,
+#memory,
+#language,
+#mpris,
+#custom-notifications,
+#custom-cava,
+#pulseaudio,
+#window,
+#disk {
+  color: @white2;
+  font-weight: 600;
+  min-width: 65px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#tray {
+  color: @white2;
+  font-weight: 600;
+  padding: 5px 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+#clock {
+  color: @white2;
+  font-weight: 600;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#custom-sepp {
+  color: @black2;
+  font-size: 22px;
+  padding-left: 5px;
+  padding-right: 5px;
+}

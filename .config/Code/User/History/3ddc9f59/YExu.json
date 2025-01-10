@@ -1,0 +1,40 @@
+{
+  "workbench.settings.applyToAllProfiles": [
+    "editor.fontSize",
+    "editor.fontFamily"
+  ],
+  "editor.fontLigatures": false,
+  "workbench.productIconTheme": "fluent-icons",
+  "explorer.confirmDelete": false,
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "redhat.telemetry.enabled": true,
+  "workbench.iconTheme": "vscode-icons",
+  "window.menuBarVisibility": "toggle",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "editor.formatOnSave": true,
+  "window.customTitleBarVisibility": "auto",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "cSpell.userWords": [
+    "appbar",
+    "Avalonia",
+    "kasami",
+    "pulseaudio",
+    "todoo",
+    "wireframe"
+  ],
+  "security.workspace.trust.untrustedFiles": "open",
+  "dart.flutterSdkPath": "/home/craacky/development/flutter",
+  "workbench.colorTheme": "Dark Horizon",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.startupEditor": "none"
+}

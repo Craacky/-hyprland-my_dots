@@ -1,0 +1,22 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Downloads/Telegram Desktop/MiniShop" value="true" />
+        <entry key="$USER_HOME$/Downloads/Telegram Desktop/MyNotesApp" value="true" />
+        <entry key="$USER_HOME$/Projects/android_labs/MyNotesApp" value="true" />
+        <entry key="$USER_HOME$/Projects/android_labs/lab3" value="true" />
+        <entry key="$USER_HOME$/Projects/android_labs/lab4" value="true" />
+        <entry key="$USER_HOME$/Projects/android_labs/lab4_v2" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/Telegram Desktop" />
+        <option value="$USER_HOME$/Projects/android_labs" />
+      </list>
+    </option>
+  </component>
+</application>

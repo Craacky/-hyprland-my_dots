@@ -1,0 +1,284 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="java_practice" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="28uck124eo8if" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;JAVA&quot;: {
+      &quot;usageCount&quot;: 7,
+      &quot;lastUsed&quot;: 1735998388021
+    }
+  }
+}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/craacky/Projects/java_practice/src/Main.java&quot;,
+    &quot;/home/craacky/Projects/java_practice/src/Solution.java&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="7" lastUsage="1735998388021" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/craacky/Projects/java_practice}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/craacky/Projects/java_practice}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/craacky/Projects/java_practice/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="java_practice" />
+            <item name="java_practice" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java_practice" />
+              <item name="dir{file:///home/craacky/Projects/java_practice}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/craacky/Projects/java_practice/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/out" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="out" />
+                <item name="dir{file:///home/craacky/Projects/java_practice/out}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/craacky/Projects/java_practice/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Main.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Main" />
+                  <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Solution.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Solution" />
+                  <item name="Solution" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/java_practice.iml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ideaModule.svg" iconPlugin="com.intellij" isLeaf="true" text="java_practice.iml" />
+                <item name="java_practice.iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15503000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1533019" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="MyToolWindow" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3295678" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3295678" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3295678" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.3295678" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3299266" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.3299266" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3295678" left="0.1533019" right="0.3299266" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Notifications</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="157" key="#Project_Structure" timestamp="1735910740227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="157" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1735910740227" />
+    <state x="748" y="339" key="FileChooserDialogImpl" timestamp="1735999957142">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="339" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1735999957142" />
+    <state width="1826" height="293" key="GridCell.Tab.0.bottom" timestamp="1735994225686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1735994225686" />
+    <state width="1826" height="293" key="GridCell.Tab.0.center" timestamp="1735994225686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1735994225686" />
+    <state width="1826" height="293" key="GridCell.Tab.0.left" timestamp="1735994225686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1735994225686" />
+    <state width="1826" height="293" key="GridCell.Tab.0.right" timestamp="1735994225686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1735994225686" />
+    <state width="1826" height="293" key="GridCell.Tab.1.bottom" timestamp="1735994225686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1735994225686" />
+    <state width="1826" height="293" key="GridCell.Tab.1.center" timestamp="1735994225686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="293" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1735994225686" />
+    <state width="1826" height="293" key="GridCell.Tab.1.left" timestamp="1735994225686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="293" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1735994225686" />
+    <state width="1826" height="293" key="GridCell.Tab.1.right" timestamp="1735994225686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="293" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1735994225686" />
+    <state x="469" y="215" key="SettingsEditor" timestamp="1735912724843">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="215" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1735912724843" />
+    <state x="106" y="156" width="1708" height="818" key="debugger-collection-visualizer" timestamp="1735935305147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="106" y="156" width="1708" height="818" key="debugger-collection-visualizer/0.0.1920.1080@0.0.1920.1080" timestamp="1735935305147" />
+    <state x="560" y="260" width="800" height="612" key="new project wizard" timestamp="1735999933202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="260" width="800" height="612" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1735999933202" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="5" selection-start-line="14" selection-start-column="3" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java_practice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

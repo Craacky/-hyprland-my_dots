@@ -1,0 +1,10 @@
+2025/01/03-17:00:16.254 1a076 Creating DB /home/craacky/.config/Postman/Partitions/8f6c184e-1530-4e44-a679-bdc0abd7cba5/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb since it was missing.
+2025/01/03-17:00:16.261 1a076 Reusing MANIFEST /home/craacky/.config/Postman/Partitions/8f6c184e-1530-4e44-a679-bdc0abd7cba5/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/03-17:00:16.271 1a076 Level-0 table #5: started
+2025/01/03-17:00:16.274 1a076 Level-0 table #5: 526 bytes OK
+2025/01/03-17:00:16.279 1a076 Delete type=0 #3
+2025/01/03-17:00:16.279 1a08d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/03-17:00:16.280 1a076 Level-0 table #7: started
+2025/01/03-17:00:16.283 1a076 Level-0 table #7: 511 bytes OK
+2025/01/03-17:00:16.285 1a076 Delete type=0 #4
+2025/01/03-17:00:16.285 1a076 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

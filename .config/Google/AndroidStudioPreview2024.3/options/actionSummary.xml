@@ -1,0 +1,94 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Paste">
+      <i c="2" l="1735108558654" />
+    </e>
+    <e n="$Undo">
+      <i c="10" l="1735108847466" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="10" l="1735108795326" />
+    </e>
+    <e n="EditorDown">
+      <i c="297" l="1735108846485" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1735108733454" />
+    </e>
+    <e n="EditorLeft">
+      <i c="5" l="1735108823865" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="33" l="1735108845230" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="3" l="1735108362994" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1735108683247" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="2" l="1735108362638" />
+    </e>
+    <e n="EditorRight">
+      <i c="73" l="1735108805225" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="2" l="1735108815817" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="27" l="1735108796896" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="2" l="1735108741758" />
+    </e>
+    <e n="EditorUp">
+      <i c="282" l="1735108849191" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="2" l="1735108332874" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1735109031215" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1735108695162" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="32" l="1735108838537" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1735109030149" />
+    </e>
+    <e n="Switcher">
+      <i c="27" l="1735108820192" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1735108324454" />
+    </e>
+    <e n="android.emulator.extended.controls">
+      <i c="1" l="1735108904168" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="8" l="1735108821458" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1735108700077" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="3" l="1735108820741" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1735110074830" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1735108306320" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1735108855122" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
+      <i c="1" l="1735108793823" />
+    </e>
+  </component>
+</application>
